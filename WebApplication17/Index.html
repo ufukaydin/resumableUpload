@@ -1,0 +1,12 @@
+﻿ 
+<script src="ck/ckeditor.js"></script>
+<script src="ckDil/autoload.js"></script> 
+<textarea id='editor1'>...</textarea>
+<script>CKEDITOR.replace('editor1');</script>
+
+<script>
+    nanospell.ckeditor('editor1', {
+        dictionary: "tr",  // 24 free international dictionaries
+        server: "asp.net"      // can be php, asp, asp.net or java
+    });
+</script>

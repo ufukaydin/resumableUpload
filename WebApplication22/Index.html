@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+    <script src="Scripts/jquery-1.6.4.min.js"></script>
+    <script src="Scripts/jquery.signalR-2.2.0.min.js"></script>
+	<meta charset="utf-8" />
+    <script>
+        var connection = $.hubConnection();
+        var chatHub = connection.createHubProxy('chatHub');
+       
+        chatHub.on('deneme', function (data) {
+            console.log(data);
+        });
+        connection.start({ transport: ['webSockets'], waitForPageLoad: true }).done(function () {
+          
+            setInterval(function () {
+
+                chatHub.invoke("deneme");
+            }, 10);
+             
+           
+        }).fail(function (error) {
+            alert(error);
+
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>

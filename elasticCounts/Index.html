@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Has</title>
+    <meta charset="utf-8" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.print.css" media="print" rel="stylesheet">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.12.0/moment.min.js"></script>
+    <script src="https://code.jquery.com/jquery-2.2.2.min.js" integrity="sha256-36cp2Co+/62rEAAYHLmRCPIych47CvdM+uTBJwSzWjI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.12.0/locale/tr.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/2.6.1/fullcalendar.min.js"></script>
+
+    <style>
+        .fc-content {
+            text-align: center;
+            font-size: 50px;
+        }
+    </style>
+
+    <script>
+        function ColorGetir (b) {
+            if (b.tip == "1")
+            {
+                return "#93DEB3";
+            }
+            else if (b.tip == "2") {
+                return "#6985D4";
+            }
+            else  if (b.tip == "3") {
+                return "#364672";
+            }
+            else if (b.tip == "4") {
+                return "#1E51DB";
+            }
+            else if (b.tip == "5") {
+                return "#072370";
+            }
+                                         
+        }
+        function AdGetir(b) {
+            if (b.tip == "1") {
+                return b.VeriSayisi + "-Text";
+            }
+            else if (b.tip == "2") {
+                return  b.VeriSayisi +"-Photo" ;
+            }
+            else if (b.tip == "3") {
+                return   b.VeriSayisi + "-Video";
+            }
+            else if (b.tip == "4") {
+                return b.VeriSayisi + "-Dosya";
+            }
+            else if (b.tip == "5") {
+                return b.VeriSayisi + "-Grafik";
+            }
+            else
+            {
+                console.log(b);
+            }
+
+        }
+        $(document).ready(function () {
+
+            var events = [];
+
+            $('#calendar').fullCalendar({
+                events: function (start, end, timezone, callback) {
+                    var events = [];
+                    var tarih = $('#calendar').fullCalendar('getDate');
+                    $.ajax({
+                        method: "GET",
+                        url: "Agg.ashx?ay=" + (tarih.month() + 1) + "&yil=" + tarih.year(),
+
+                    })
+                      .done(function (msg) {
+
+                          $.each(JSON.parse(msg), function (a, b) {
+                              events.push({
+                                  id: a,
+                                  title: AdGetir(b),
+                                  allDay: true,
+                                  start: b.Tarih,
+                                  color: ColorGetir(b)
+
+
+                              });
+
+
+                          }); 
+                          callback(events);
+               });
+
+                },
+                lang: 'tr'
+            
+            });
+
+        });
+
+    </script>
+</head>
+<body>
+    <div id="calendar"></div>
+</body>
+</html>

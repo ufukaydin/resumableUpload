@@ -1,0 +1,2489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AA>
+  <Secim Adi="2015 Genel Seçimleri - Seçim Çevresi Bazında Sonuçlar"/>
+  <Guncelleme>14.05.2015 11:43:54</Guncelleme>
+  <MilletvekiliHesaplaniyor>Evet</MilletvekiliHesaplaniyor>
+  <GumrukDahil>Hayır</GumrukDahil>
+  <TurkiyeGeneli>
+    <Sandik ToplamSandik="173877" ToplamSecmen="53741838" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="550"/>
+    <Sonuclar>
+      <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="51" Adi="ERCAN ALTINTOP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="52" Adi="REFİK GÜL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="53" Adi="SALİH DEMİR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="54" Adi="ZİHNİ ALDIRMAZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="55" Adi="MUHİTTİN DEMİR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="56" Adi="GÜLCAN AY" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="57" Adi="YASİN TÜRKOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="58" Adi="ÇAĞLAYAN KAYA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="59" Adi="MUSTAFA SÜHA AŞLAMACI" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="60" Adi="CEMAL KAYA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="61" Adi="GÖKMEN GÜRKAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="62" Adi="FARUK NESİMİ GÖZÜBÜYÜK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="63" Adi="YURT ATAYÜN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="64" Adi="FARUK ARSLANDOK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="65" Adi="AHMET YALAVAÇ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="66" Adi="ÇAĞLAR ÇAĞANLAR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="67" Adi="ERCAN YENAL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="68" Adi="MEHMET OKTAY KALLİOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="69" Adi="MEHMET SEDAT FIRAT" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="70" Adi="ABDULKADİR YILMAZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="71" Adi="NAZMİ ARDIÇ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="72" Adi="TUFAN SEVİM" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="73" Adi="TANER PEHLİVAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="74" Adi="MELEK ALTINTAŞ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="75" Adi="HASAN SUBAŞI" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="76" Adi="RAUF TEMEL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="77" Adi="ÖMER ALBAYRAK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="78" Adi="İSMAİL YAŞAR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="79" Adi="MEHMET REŞİT ÖZMEN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="80" Adi="SAİT ŞAHİN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="81" Adi="CENGİZ KARAKAYA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="82" Adi="AYDIN İLHAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="83" Adi="MEHMET ÜMİT YAŞAR YALÇIN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="84" Adi="ŞÜKRÜ TINAS" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="85" Adi="YUSUF YILMAZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="86" Adi="SİYASETTİN ÖZAYDIN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="87" Adi="UMUT IŞIK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="88" Adi="MUSTAFA ÖZDEMİR ESMEK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="89" Adi="ABDULLAH ARZAKÇI" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="90" Adi="ZEKERİYA YAPICIOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="91" Adi="ABDUSSELAM EFE" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="92" Adi="DURSUN GÜNEŞ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="93" Adi="MUHARREM ŞENEL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="94" Adi="MEHMET IŞIN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="95" Adi="TİMUR ŞAHAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="96" Adi="FEHMİ ÖZTUNÇ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="97" Adi="ZARİF KOCA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="98" Adi="NİHAT TAŞKIN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="99" Adi="REFİK ERYILMAZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="100" Adi="BERKAY DURAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="101" Adi="MÜRÜVVET BOZNA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="102" Adi="SAADET YILMAZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="103" Adi="HAKAN ŞÜKÜR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="104" Adi="YETKİN İLKER JANDAR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="105" Adi="METİN ŞENTÜRK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="106" Adi="SERDAR ASLAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="107" Adi="YILMAZ KARABUL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="108" Adi="MEHMET SAİT DURMUŞ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="109" Adi="ERSAN GÖKGÖZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="110" Adi="BÜLENT TİMUR DEMİRGİL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="111" Adi="ÖMER COŞKUN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="112" Adi="ZAKİR BATUHAN AYDAGÜL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="113" Adi="YAKUB SAYGILI" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="114" Adi="SERDAL BİRİCİK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="115" Adi="KURTULUŞ ALADOGAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="116" Adi="ALİ FUAT YILMAZER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="117" Adi="METE GÜNDOĞAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="118" Adi="RECEP DİNLER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="119" Adi="KENAN KAPLAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="120" Adi="FERZENDE GÜNANA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="121" Adi="MİHRİYE NEVRA ÖLÇER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="122" Adi="METİN KAYA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="123" Adi="SEÇKİN İLKER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="124" Adi="HALİL İBRAHİM YAYLAGÜL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="125" Adi="REFİK ÖZMEN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="126" Adi="LEVENT SEKBAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="127" Adi="İPEK BOZKURT" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="128" Adi="DERYA KÜÇÜKOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="129" Adi="HARUN KÜÇÜKOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="130" Adi="OSMAN LEVENT SOYARSLAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="131" Adi="İLBAY ÇEP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="132" Adi="YALÇIN KARADAŞ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="133" Adi="BERKAN ÇELİK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="134" Adi="KADER ATASOY" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="135" Adi="İLHAN SARP" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="136" Adi="ZEYNEP EBRU PUHALOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="137" Adi="ALİ İHSAN AKSAMAZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="138" Adi="MESUT ÜLKER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="139" Adi="DİLAVER ARSLAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="140" Adi="İSMET ŞAHİN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="141" Adi="VOLKAN IŞIK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="142" Adi="DOĞUKAN HUZUR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="143" Adi="GÜNSEL AVCI" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="144" Adi="NİHAT AKMAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="145" Adi="YAŞAR YOLCULAR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="146" Adi="OSMAN PAMUKOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="147" Adi="HASAN GÜZEL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="148" Adi="FATMA RAGİBE KANIKURU LOĞOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="149" Adi="MEHMET AKİF ÜNER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="150" Adi="HASAN TAHSİN ÇELEBİCAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="151" Adi="KEMAL AKÇA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="152" Adi="NERİMAN FİDAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="153" Adi="İLHAN İŞBİLEN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="154" Adi="MUHARREM SUBAŞİ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="155" Adi="MEHMET ŞENER ÖZTERZİ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="156" Adi="ÖZGE SEÇKİNER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="157" Adi="AYDEMİR KAPLAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="158" Adi="CEVAT YOL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="159" Adi="ALİ ADIGÜZEL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="160" Adi="ALİ İHSAN ERDENİLGEN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="161" Adi="SEFA BİLİR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="162" Adi="KENAN HALAT" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="163" Adi="MÜHİTTİN AĞIRMAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="164" Adi="MUHAMMET EMİN KARAPAÇA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="165" Adi="FAHRETTİN AKCAKOCA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="166" Adi="EMİNE SEZGİN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="167" Adi="BİLAL BOYLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="168" Adi="AHMET KARAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="169" Adi="KADİR YILDIRIMER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="170" Adi="İBRAHİM LAYIK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="171" Adi="YUSUF BAŞ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="172" Adi="MEHMET DOĞAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="173" Adi="KADİR BÖLEN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="174" Adi="YAVUZ TUNCAY DERELİ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="175" Adi="MEHMET RIZA GÜLEREN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="176" Adi="ALİ YALÇIN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="177" Adi="ALİ ÖZŞEKER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="178" Adi="MÜNİR DOĞAN ÖLMEZTOPRAK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="179" Adi="TEVFİK DİKER" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="180" Adi="HAKAN OLTAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="181" Adi="AHMET KAYIRAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="182" Adi="MAHMUT KILINÇ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="183" Adi="ŞAKİR NUHOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="184" Adi="SELAMETTİN TELLİOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="185" Adi="TEKİN TURAL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="186" Adi="COŞKUN SAMUR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="187" Adi="MUSTAFA KAŞKAŞ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="188" Adi="ÖZCAN DERİNBAY" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="189" Adi="YAVUZ SOYDAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="190" Adi="SERDAR ŞENOCAK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="191" Adi="FEYTULLAH GÜNDEM" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="192" Adi="SAİM SEZGİN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="193" Adi="SELAHATTİN ARSLANBUĞUL" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="194" Adi="MEMET FADIL AKGÜNDÜZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="195" Adi="AHMET YILDIZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="196" Adi="ERDEM KARAMAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="197" Adi="MEHMET KILIÇ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="198" Adi="İBRAHİM ESKİN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="199" Adi="MEHMET YAVUZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="200" Adi="İBRAHİM HALİL GÖĞÜŞ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="201" Adi="İSA YALDIZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="202" Adi="MUSTAFA GÖKTAŞ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="203" Adi="FATİH MEHMET BUCAK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="204" Adi="MEHMET NEDİM ÖBEK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="205" Adi="AYHAN YILDIRIM" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="206" Adi="MEHMET MEHDİ OĞUZ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="207" Adi="İDRİS AHİ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="208" Adi="AYŞEGÜL BİŞKİN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="209" Adi="FERİT TUNÇ" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="210" Adi="HALİME İNAN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="211" Adi="AYDIN GÖK" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="212" Adi="ŞAHZADE DEMİR" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="213" Adi="SAFFET KAYA" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="214" Adi="AYŞE PİŞKİN" Oy="0" MilletVekiliSayisi="0"/>
+      <Parti No="215" Adi="BİROL ŞAHİN" Oy="0" MilletVekiliSayisi="0"/>
+    </Sonuclar>
+  </TurkiyeGeneli>
+  <IlSonuclari>
+    <Il Ad="Adana" Kod="1">
+      <Sandik ToplamSandik="4414" ToplamSecmen="1477328" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="14"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="54" Adi="ZİHNİ ALDIRMAZ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="51" Adi="ERCAN ALTINTOP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="58" Adi="ÇAĞLAYAN KAYA" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="55" Adi="MUHİTTİN DEMİR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="53" Adi="SALİH DEMİR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="56" Adi="GÜLCAN AY" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="57" Adi="YASİN TÜRKOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="52" Adi="REFİK GÜL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="59" Adi="MUSTAFA SÜHA AŞLAMACI" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Adıyaman" Kod="2">
+      <Sandik ToplamSandik="1382" ToplamSecmen="380745" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="5"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Afyonkarahisar" Kod="3">
+      <Sandik ToplamSandik="1761" ToplamSecmen="493765" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="5"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Ağrı" Kod="4">
+      <Sandik ToplamSandik="1150" ToplamSecmen="291539" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="60" Adi="CEMAL KAYA" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Amasya" Kod="5">
+      <Sandik ToplamSandik="914" ToplamSecmen="238506" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Antalya" Kod="7">
+      <Sandik ToplamSandik="4684" ToplamSecmen="1568153" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="14"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="75" Adi="HASAN SUBAŞI" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="76" Adi="RAUF TEMEL" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Artvin" Kod="8">
+      <Sandik ToplamSandik="619" ToplamSecmen="129961" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Aydın" Kod="9">
+      <Sandik ToplamSandik="2446" ToplamSecmen="772649" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="7"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Balıkesir" Kod="10">
+      <Sandik ToplamSandik="3090" ToplamSecmen="906421" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="8"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="77" Adi="ÖMER ALBAYRAK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="78" Adi="İSMAİL YAŞAR" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Bilecik" Kod="11">
+      <Sandik ToplamSandik="613" ToplamSecmen="148650" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Bingöl" Kod="12">
+      <Sandik ToplamSandik="703" ToplamSecmen="170761" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="79" Adi="MEHMET REŞİT ÖZMEN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="80" Adi="SAİT ŞAHİN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Bitlis" Kod="13">
+      <Sandik ToplamSandik="804" ToplamSecmen="188176" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="81" Adi="CENGİZ KARAKAYA" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Bolu" Kod="14">
+      <Sandik ToplamSandik="945" ToplamSecmen="212854" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Burdur" Kod="15">
+      <Sandik ToplamSandik="685" ToplamSecmen="191550" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Çanakkale" Kod="17">
+      <Sandik ToplamSandik="1450" ToplamSecmen="387062" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Bursa" Kod="16">
+      <Sandik ToplamSandik="5962" ToplamSecmen="2028417" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="18"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="85" Adi="YUSUF YILMAZ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="84" Adi="ŞÜKRÜ TINAS" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="87" Adi="UMUT IŞIK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="82" Adi="AYDIN İLHAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="86" Adi="SİYASETTİN ÖZAYDIN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="83" Adi="MEHMET ÜMİT YAŞAR YALÇIN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Çorum" Kod="19">
+      <Sandik ToplamSandik="1677" ToplamSecmen="386225" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Çankırı" Kod="18">
+      <Sandik ToplamSandik="677" ToplamSecmen="131689" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Diyarbakır" Kod="21">
+      <Sandik ToplamSandik="3135" ToplamSecmen="949859" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="11"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="89" Adi="ABDULLAH ARZAKÇI" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="90" Adi="ZEKERİYA YAPICIOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Denizli" Kod="20">
+      <Sandik ToplamSandik="2244" ToplamSecmen="712973" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="7"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="88" Adi="MUSTAFA ÖZDEMİR ESMEK" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Elazığ" Kod="23">
+      <Sandik ToplamSandik="1529" ToplamSecmen="396190" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Edirne" Kod="22">
+      <Sandik ToplamSandik="984" ToplamSecmen="304178" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Erzurum" Kod="25">
+      <Sandik ToplamSandik="2175" ToplamSecmen="484714" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="6"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="91" Adi="ABDUSSELAM EFE" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="92" Adi="DURSUN GÜNEŞ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Erzincan" Kod="24">
+      <Sandik ToplamSandik="928" ToplamSecmen="152970" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Gaziantep" Kod="27">
+      <Sandik ToplamSandik="3455" ToplamSecmen="1130109" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="12"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Eskişehir" Kod="26">
+      <Sandik ToplamSandik="1988" ToplamSecmen="613609" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="6"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="94" Adi="MEHMET IŞIN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="93" Adi="MUHARREM ŞENEL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="95" Adi="TİMUR ŞAHAN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Gümüşhane" Kod="29">
+      <Sandik ToplamSandik="574" ToplamSecmen="98182" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Giresun" Kod="28">
+      <Sandik ToplamSandik="1269" ToplamSecmen="320954" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Hatay" Kod="31">
+      <Sandik ToplamSandik="2972" ToplamSecmen="987001" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="10"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="100" Adi="BERKAY DURAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="97" Adi="ZARİF KOCA" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="98" Adi="NİHAT TAŞKIN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="99" Adi="REFİK ERYILMAZ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Hakkari" Kod="30">
+      <Sandik ToplamSandik="507" ToplamSecmen="154705" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="96" Adi="FEHMİ ÖZTUNÇ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Isparta" Kod="32">
+      <Sandik ToplamSandik="1020" ToplamSecmen="304480" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Mersin" Kod="33">
+      <Sandik ToplamSandik="3690" ToplamSecmen="1210552" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="11"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="101" Adi="MÜRÜVVET BOZNA" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kayseri" Kod="38">
+      <Sandik ToplamSandik="2860" ToplamSecmen="900954" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="9"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="164" Adi="MUHAMMET EMİN KARAPAÇA" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="166" Adi="EMİNE SEZGİN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="165" Adi="FAHRETTİN AKCAKOCA" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kırklareli" Kod="39">
+      <Sandik ToplamSandik="844" ToplamSecmen="264150" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="167" Adi="BİLAL BOYLU" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kars" Kod="36">
+      <Sandik ToplamSandik="724" ToplamSecmen="183620" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kastamonu" Kod="37">
+      <Sandik ToplamSandik="1589" ToplamSecmen="276527" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Konya" Kod="42">
+      <Sandik ToplamSandik="4515" ToplamSecmen="1430306" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="14"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="174" Adi="YAVUZ TUNCAY DERELİ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kütahya" Kod="43">
+      <Sandik ToplamSandik="1587" ToplamSecmen="420348" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="175" Adi="MEHMET RIZA GÜLEREN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kırşehir" Kod="40">
+      <Sandik ToplamSandik="651" ToplamSecmen="159380" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kocaeli" Kod="41">
+      <Sandik ToplamSandik="3571" ToplamSecmen="1221771" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="11"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="168" Adi="AHMET KARAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="170" Adi="İBRAHİM LAYIK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="169" Adi="KADİR YILDIRIMER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="172" Adi="MEHMET DOĞAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="171" Adi="YUSUF BAŞ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="173" Adi="KADİR BÖLEN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kahramanmaraş" Kod="46">
+      <Sandik ToplamSandik="2276" ToplamSecmen="696315" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="8"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="181" Adi="AHMET KAYIRAN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Mardin" Kod="47">
+      <Sandik ToplamSandik="1617" ToplamSecmen="441076" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="6"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="184" Adi="SELAMETTİN TELLİOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="183" Adi="ŞAKİR NUHOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="182" Adi="MAHMUT KILINÇ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Malatya" Kod="44">
+      <Sandik ToplamSandik="1900" ToplamSecmen="531722" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="6"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="178" Adi="MÜNİR DOĞAN ÖLMEZTOPRAK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="177" Adi="ALİ ÖZŞEKER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="176" Adi="ALİ YALÇIN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Manisa" Kod="45">
+      <Sandik ToplamSandik="3308" ToplamSecmen="1006697" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="9"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="179" Adi="TEVFİK DİKER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="180" Adi="HAKAN OLTAN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Niğde" Kod="51">
+      <Sandik ToplamSandik="752" ToplamSecmen="229904" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Nevşehir" Kod="50">
+      <Sandik ToplamSandik="690" ToplamSecmen="203116" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Muş" Kod="49">
+      <Sandik ToplamSandik="852" ToplamSecmen="222126" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Muğla" Kod="48">
+      <Sandik ToplamSandik="2070" ToplamSecmen="665608" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="6"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Samsun" Kod="55">
+      <Sandik ToplamSandik="3126" ToplamSecmen="917372" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="9"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="192" Adi="SAİM SEZGİN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="190" Adi="SERDAR ŞENOCAK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="191" Adi="FEYTULLAH GÜNDEM" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Sakarya" Kod="54">
+      <Sandik ToplamSandik="2132" ToplamSecmen="662886" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="7"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="188" Adi="ÖZCAN DERİNBAY" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="186" Adi="COŞKUN SAMUR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="189" Adi="YAVUZ SOYDAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="187" Adi="MUSTAFA KAŞKAŞ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Rize" Kod="53">
+      <Sandik ToplamSandik="948" ToplamSecmen="243273" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Ordu" Kod="52">
+      <Sandik ToplamSandik="1934" ToplamSecmen="530789" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="5"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="185" Adi="TEKİN TURAL" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Tekirdağ" Kod="59">
+      <Sandik ToplamSandik="1955" ToplamSecmen="662357" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="6"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="196" Adi="ERDEM KARAMAN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Sivas" Kod="58">
+      <Sandik ToplamSandik="2252" ToplamSecmen="436511" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="5"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="195" Adi="AHMET YILDIZ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Sinop" Kod="57">
+      <Sandik ToplamSandik="760" ToplamSecmen="154185" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Siirt" Kod="56">
+      <Sandik ToplamSandik="678" ToplamSecmen="168806" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="194" Adi="MEMET FADIL AKGÜNDÜZ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="193" Adi="SELAHATTİN ARSLANBUĞUL" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Şanlıurfa" Kod="63">
+      <Sandik ToplamSandik="3409" ToplamSecmen="974219" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="12"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="203" Adi="FATİH MEHMET BUCAK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="204" Adi="MEHMET NEDİM ÖBEK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="198" Adi="İBRAHİM ESKİN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="199" Adi="MEHMET YAVUZ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="201" Adi="İSA YALDIZ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="200" Adi="İBRAHİM HALİL GÖĞÜŞ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="202" Adi="MUSTAFA GÖKTAŞ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Tunceli" Kod="62">
+      <Sandik ToplamSandik="494" ToplamSecmen="63614" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Trabzon" Kod="61">
+      <Sandik ToplamSandik="2006" ToplamSecmen="559096" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="6"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="197" Adi="MEHMET KILIÇ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Tokat" Kod="60">
+      <Sandik ToplamSandik="1633" ToplamSecmen="415657" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="5"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Aksaray" Kod="68">
+      <Sandik ToplamSandik="854" ToplamSecmen="254762" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="İstanbul 3. Bölge" Kod="343">
+      <Sandik ToplamSandik="9502" ToplamSecmen="3497029" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="31"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="146" Adi="OSMAN PAMUKOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="128" Adi="DERYA KÜÇÜKOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="129" Adi="HARUN KÜÇÜKOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="111" Adi="ÖMER COŞKUN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="120" Adi="FERZENDE GÜNANA" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="136" Adi="ZEYNEP EBRU PUHALOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="141" Adi="VOLKAN IŞIK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="119" Adi="KENAN KAPLAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="127" Adi="İPEK BOZKURT" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="135" Adi="İLHAN SARP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="110" Adi="BÜLENT TİMUR DEMİRGİL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="145" Adi="YAŞAR YOLCULAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="103" Adi="HAKAN ŞÜKÜR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="139" Adi="DİLAVER ARSLAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="133" Adi="BERKAN ÇELİK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="134" Adi="KADER ATASOY" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Bayburt" Kod="69">
+      <Sandik ToplamSandik="281" ToplamSecmen="54177" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="İstanbul 2. Bölge" Kod="342">
+      <Sandik ToplamSandik="8313" ToplamSecmen="3052377" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="26"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="144" Adi="NİHAT AKMAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="124" Adi="HALİL İBRAHİM YAYLAGÜL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="137" Adi="ALİ İHSAN AKSAMAZ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="112" Adi="ZAKİR BATUHAN AYDAGÜL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="130" Adi="OSMAN LEVENT SOYARSLAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="104" Adi="YETKİN İLKER JANDAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="105" Adi="METİN ŞENTÜRK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="125" Adi="REFİK ÖZMEN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="113" Adi="YAKUB SAYGILI" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="106" Adi="SERDAR ASLAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="142" Adi="DOĞUKAN HUZUR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="138" Adi="MESUT ÜLKER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="147" Adi="HASAN GÜZEL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="114" Adi="SERDAL BİRİCİK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="148" Adi="FATMA RAGİBE KANIKURU LOĞOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="149" Adi="MEHMET AKİF ÜNER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="150" Adi="HASAN TAHSİN ÇELEBİCAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="140" Adi="İSMET ŞAHİN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Karaman" Kod="70">
+      <Sandik ToplamSandik="614" ToplamSecmen="167295" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="İstanbul 1. Bölge" Kod="341">
+      <Sandik ToplamSandik="10046" ToplamSecmen="3682297" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="31"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="121" Adi="MİHRİYE NEVRA ÖLÇER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="102" Adi="SAADET YILMAZ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="115" Adi="KURTULUŞ ALADOGAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="131" Adi="İLBAY ÇEP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="126" Adi="LEVENT SEKBAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="122" Adi="METİN KAYA" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="116" Adi="ALİ FUAT YILMAZER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="143" Adi="GÜNSEL AVCI" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="117" Adi="METE GÜNDOĞAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="123" Adi="SEÇKİN İLKER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="132" Adi="YALÇIN KARADAŞ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="107" Adi="YILMAZ KARABUL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="118" Adi="RECEP DİNLER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="108" Adi="MEHMET SAİT DURMUŞ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="109" Adi="ERSAN GÖKGÖZ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kırıkkale" Kod="71">
+      <Sandik ToplamSandik="689" ToplamSecmen="193668" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="208" Adi="AYŞEGÜL BİŞKİN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Uşak" Kod="64">
+      <Sandik ToplamSandik="868" ToplamSecmen="256900" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="205" Adi="AYHAN YILDIRIM" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Van" Kod="65">
+      <Sandik ToplamSandik="2006" ToplamSecmen="596809" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="8"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="207" Adi="İDRİS AHİ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="206" Adi="MEHMET MEHDİ OĞUZ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Yozgat" Kod="66">
+      <Sandik ToplamSandik="1279" ToplamSecmen="300197" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Zonguldak" Kod="67">
+      <Sandik ToplamSandik="1503" ToplamSecmen="447533" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="5"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Iğdır" Kod="76">
+      <Sandik ToplamSandik="433" ToplamSecmen="115783" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="İzmir 1. Bölge" Kod="351">
+      <Sandik ToplamSandik="4296" ToplamSecmen="1513998" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="13"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="157" Adi="AYDEMİR KAPLAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="162" Adi="KENAN HALAT" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="156" Adi="ÖZGE SEÇKİNER" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="163" Adi="MÜHİTTİN AĞIRMAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="158" Adi="CEVAT YOL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="159" Adi="ALİ ADIGÜZEL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="153" Adi="İLHAN İŞBİLEN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="160" Adi="ALİ İHSAN ERDENİLGEN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Yalova" Kod="77">
+      <Sandik ToplamSandik="484" ToplamSecmen="166060" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Karabük" Kod="78">
+      <Sandik ToplamSandik="686" ToplamSecmen="167789" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Kilis" Kod="79">
+      <Sandik ToplamSandik="338" ToplamSecmen="78278" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Batman" Kod="72">
+      <Sandik ToplamSandik="1071" ToplamSecmen="310442" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="209" Adi="FERİT TUNÇ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="211" Adi="AYDIN GÖK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="210" Adi="HALİME İNAN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Şırnak" Kod="73">
+      <Sandik ToplamSandik="814" ToplamSecmen="243126" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="212" Adi="ŞAHZADE DEMİR" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Bartın" Kod="74">
+      <Sandik ToplamSandik="539" ToplamSecmen="142950" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Ardahan" Kod="75">
+      <Sandik ToplamSandik="335" ToplamSecmen="68906" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="2"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="213" Adi="SAFFET KAYA" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Düzce" Kod="81">
+      <Sandik ToplamSandik="876" ToplamSecmen="253389" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="3"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="214" Adi="AYŞE PİŞKİN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="215" Adi="BİROL ŞAHİN" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Osmaniye" Kod="80">
+      <Sandik ToplamSandik="1034" ToplamSecmen="336102" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="4"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="İzmir 2. Bölge" Kod="352">
+      <Sandik ToplamSandik="4667" ToplamSecmen="1571406" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="13"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="161" Adi="SEFA BİLİR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="151" Adi="KEMAL AKÇA" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="154" Adi="MUHARREM SUBAŞİ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="152" Adi="NERİMAN FİDAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="155" Adi="MEHMET ŞENER ÖZTERZİ" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Ankara 1. Bölge" Kod="601">
+      <Sandik ToplamSandik="5920" ToplamSecmen="2074389" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="18"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="71" Adi="NAZMİ ARDIÇ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="64" Adi="FARUK ARSLANDOK" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="65" Adi="AHMET YALAVAÇ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="72" Adi="TUFAN SEVİM" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="74" Adi="MELEK ALTINTAŞ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="66" Adi="ÇAĞLAR ÇAĞANLAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="67" Adi="ERCAN YENAL" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="68" Adi="MEHMET OKTAY KALLİOĞLU" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+    <Il Ad="Ankara 2. Bölge" Kod="602">
+      <Sandik ToplamSandik="4850" ToplamSecmen="1628864" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0" MilletvekiliSayisi="14"/>
+      <Sonuclar>
+        <Parti No="1" Adi="DYP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="2" Adi="Anadolu Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="3" Adi="HAK-PAR" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="4" Adi="Komünist Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="5" Adi="Millet Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="6" Adi="HAP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="7" Adi="Merkez Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="8" Adi="TURK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="9" Adi="HKP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="10" Adi="LDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="11" Adi="MHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="12" Adi="HDP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="13" Adi="Saadet" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="14" Adi="CHP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="15" Adi="AK Parti" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="16" Adi="DSP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="17" Adi="YURT-P" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="18" Adi="DP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="19" Adi="Vatan Partisi" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="20" Adi="BTP" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="73" Adi="TANER PEHLİVAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="63" Adi="YURT ATAYÜN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="61" Adi="GÖKMEN GÜRKAN" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="69" Adi="MEHMET SEDAT FIRAT" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="70" Adi="ABDULKADİR YILMAZ" Oy="0" MilletVekiliSayisi="0"/>
+        <Parti No="62" Adi="FARUK NESİMİ GÖZÜBÜYÜK" Oy="0" MilletVekiliSayisi="0"/>
+      </Sonuclar>
+    </Il>
+  </IlSonuclari>
+</AA>

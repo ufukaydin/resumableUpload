@@ -1,0 +1,525 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: "Myriad Pro Regular";
+    color: #3f3f3f;
+    overflow: hidden !important;
+}
+
+body, canvas {
+    cursor: none !important;
+}
+
+#LokasyonAdi, #LokasyonAdi2 {
+    font-size: 14px;
+}
+
+#Menu {
+    cursor: default !important;
+    height: 175px;
+    margin: 24px 52px;
+    border: 1px solid #b0b0b0;
+}
+
+    #Menu > select {
+        margin: 11px 6px;
+        width: 140px;
+        height: 120px;
+        float: left;
+    }
+
+#Grafik {
+    visibility: hidden;
+}
+
+#CoktanSecmeli, #Menu {
+    display: none;
+}
+
+#CoktanSecmeli {
+    cursor: default !important;
+    height: 185px;
+    width: 368px;
+    float: left;
+    border: 1px solid #c7c7c7;
+    margin: 14px;
+    overflow: auto;
+    padding: 3px;
+}
+
+#CoktanSecSehirler {
+    height: 148px;
+    width: 368px;
+    margin-bottom: 10px;
+    overflow: auto;
+}
+
+    #CoktanSecSehirler > div:nth-child(1) {
+        float: left;
+        margin-right: 20px;
+        width: 162px;
+    }
+
+    #CoktanSecSehirler > div:nth-child(2) {
+        float: left;
+        width: 165px;
+    }
+
+    #CoktanSecSehirler > div:nth-child(3) {
+        clear: both;
+        margin: 10px;
+        float: left;
+    }
+
+    #CoktanSecSehirler > div > input[type=checkbox] {
+        float: left;
+        clear: both;
+        cursor: pointer;
+    }
+
+    #CoktanSecSehirler > div > label {
+        float: left;
+        cursor: pointer;
+    }
+
+.TumSayfa {
+    width: 720px;
+    height: 405px;
+    background: #f5f6f7;
+    margin: auto;
+}
+
+.Title {
+    background: #404041;
+    padding: 4px 0;
+    text-align: center;
+    color: #fff;
+    font-size: 20px;
+}
+
+#UstBar {
+    font-size: 11px;
+    margin-top: 2px;
+    font-weight: 700;
+    height: 29px;
+    width: 720px;
+}
+
+.OranDiv {
+    width: 96px;
+    text-align: center;
+}
+
+.LeftAltKisim {
+    position: absolute;
+    margin-top: 12px;
+}
+
+#UstBar > .kolonBaslik {
+    float: left;
+    width: 170px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+#UstBar > .kolon:nth-child(2) {
+    float: left;
+    width: 169px;
+    margin-top: 6px;
+    font-size: 13px;
+}
+
+#UstBar > .kolon:nth-child(3) {
+    float: left;
+    width: 185px;
+    margin-top: 6px;
+    font-size: 13px;
+}
+
+#UstBar > .kolon:nth-child(4) {
+    float: right;
+    width: 165px;
+}
+
+#UstBar > .kolon > div > span:nth-child(2) {
+    margin-left: 2px;
+}
+
+.kolon1 {
+    width: 85px;
+    float: left;
+}
+
+.kolon2 {
+    width: 128px;
+    float: left;
+}
+
+.kolon3 {
+    width: 115px;
+    float: left;
+}
+
+#UstBar > .kolon > div > span:nth-child(2) {
+    color: #da2424;
+}
+
+.OrtaBar {
+    font-weight: bolder;
+    height: 228px;
+    width: 720px;
+}
+
+.Titles > div {
+    float: left;
+    margin: 0 9px;
+    width: 56px;
+    text-align: center;
+}
+
+.circular-stat {
+    cursor: default;
+}
+
+    .circular-stat, .circular-stat .canvas-container {
+        display: inline-block;
+        line-height: 1;
+        font-size: 0;
+        vertical-align: middle;
+        position: relative;
+    }
+
+        .circular-stat .digit-container {
+            z-index: 10;
+            font-size: 12px;
+            font-weight: 700;
+            position: absolute;
+            text-align: center;
+            display: inline-block;
+            vertical-align: middle;
+            width: 100%;
+        }
+
+.LeftOrta {
+    float: left;
+    width: 300px;
+    font-size: 13px;
+}
+
+.RightOrta {
+    background: rgba(236,236,236,.59);
+    float: right;
+    width: 410px;
+    height: 226px;
+    border: 1px solid #e5e5e5;
+}
+
+    .RightOrta > select {
+        display: block;
+        margin: 0 5px;
+        float: left;
+    }
+
+.Titles {
+    height: 25px;
+    width: 300px;
+}
+
+.Parti {
+    width: 300px;
+    height: 46px;
+    clear: both;
+    margin: 4px 0 0;
+}
+
+    .Parti > div {
+        float: left;
+        width: 46px;
+        margin: 2px 18px 0 23px;
+    }
+
+        .Parti > div:nth-child(2) {
+            float: left;
+            width: 51px;
+            margin: 11px 15px 0 0;
+        }
+
+        .Parti > div:nth-child(3) {
+            float: left;
+            width: 46px;
+            margin: 0 26px 0 12px;
+        }
+
+        .Parti > div:nth-child(4) {
+            float: left;
+            width: 46px;
+            margin: 12px 0 0 9px;
+        }
+
+        .Parti > div > img {
+            width: 30px;
+            height: 30px;
+        }
+
+.DortParti {
+    float: left;
+    height: 190px;
+}
+
+.footer {
+    background: #403f41;
+    width: 720px;
+    float: left;
+    height: 114px;
+    font-weight: bolder;
+    position: relative;
+    z-index: 7;
+}
+
+.footer2 {
+    background: #403f41;
+    width: 720px;
+    height: 114px;
+    font-weight: bolder;
+    float: left;
+    position: absolute;
+    z-index: 5;
+}
+
+.footerleft {
+    width: 155px;
+    padding: 10px 5px 10px 10px;
+    float: left;
+    height: 49px;
+}
+
+    .footerleft > div {
+        color: #fff;
+        float: left;
+    }
+
+.footerright {
+    width: 550px;
+    float: right;
+}
+
+.footerUst {
+    width: 550px;
+    height: 34px;
+    margin-top: 9px;
+}
+
+    .footerUst > .kolon {
+        float: left;
+        width: 170px;
+        color: #fff;
+        font-size: 11px;
+    }
+
+.footerHr {
+    width: 550px;
+    height: 1px;
+    background: #fff;
+}
+
+.footerParti {
+    float: left;
+    width: 110px;
+    height: 43px;
+    margin-top: 10px;
+}
+
+    .footerParti > div > img {
+        width: 33px;
+        height: 33px;
+    }
+
+    .footerParti > div {
+        float: left;
+        color: #fff;
+    }
+
+.footerSonuc {
+    margin: 4px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.AcilanSandikOran {
+    clear: both;
+    margin-top: 27px;
+    font-size: 10px;
+}
+
+#SandikOran {
+    margin-top: 27px;
+    font-size: 10px;
+    margin-left: 3px;
+}
+
+.AcilanSandikBar {
+    clear: both;
+    height: 12px;
+    width: 155px;
+    background: #c3c3c3;
+    margin-top: 1px;
+    border-radius: 2px;
+    border: 1px solid #a8a8a8;
+}
+
+    .AcilanSandikBar > div {
+        background: url(../images/progrescibik.png) repeat-x;
+        height: 12px; 
+    }
+
+.MilletSayisi {
+    font-size: 12px;
+    clear: both;
+    margin-top: 6px;
+    font-weight: 100;
+}
+
+.SiteColors {
+    display: none;
+    float: right;
+    position: relative;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin: 0 2px;
+}
+
+    .SiteColors > div {
+        height: 14px;
+        width: 14px;
+        float: left;
+        border: 1px solid gray;
+        border-radius: 3px;
+        opacity: .8;
+    }
+
+        .SiteColors > div:hover {
+            cursor: pointer;
+            opacity: 1;
+        }
+
+[renk='1'] {
+    background: #0808ae;
+}
+
+[renk='2'] {
+    background: #ab0f0f;
+}
+
+[renk='3'] {
+    background: #0f910f;
+}
+
+[renk='4'] {
+    background: #cbcb1a;
+}
+
+[renk='5'] {
+    background: #404041;
+}
+
+[renk='6'] {
+    background: #3d6283;
+}
+
+.HaritaChartAlani {
+    height: 190px;
+}
+
+#renkdivok {
+    float: right;
+    font-size: 14px;
+    cursor: pointer;
+    position: relative;
+    color: #000;
+}
+
+#map {
+    height: 207px;
+}
+
+    #map > svg {
+        height: 207px;
+        margin: 0 25px;
+        width: 356px;
+    }
+
+#HaritaTitle {
+    margin: 0px auto;
+    width: 263px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.amChartsLegend, .amcharts-chart-div {
+    cursor: none !important;
+}
+
+#haritaLegends {
+    margin: -38px 0 0 50px;
+}
+
+    #haritaLegends > div {
+        width: 80px;
+        float: left;
+    }
+
+        #haritaLegends > div > div:first-child {
+            width: 11px;
+            height: 11px;
+            margin-top: 5px;
+            float: left;
+            margin-right: 3px;
+        }
+
+[cursor=pointer] {
+    cursor: none !important;
+}
+
+.footerUst > .kolon:nth-child(1) {
+    float: left;
+    width: 167px;
+}
+
+    .footerUst > .kolon:nth-child(1) > div {
+        margin-bottom: 2px;
+        width: 150px;
+    }
+
+.footerUst > .kolon:nth-child(2) {
+    float: left;
+    width: 198px;
+}
+
+    .footerUst > .kolon:nth-child(2) > div {
+        margin-bottom: 2px;
+        width: 190px;
+    }
+
+.footerUst > .kolon:nth-child(3) {
+    float: left;
+    width: 180px;
+}
+
+    .footerUst > .kolon:nth-child(3) > div {
+        margin-bottom: 2px;
+        width: 180px;
+    }
+
+.footerUst > .kolon > div > span:nth-child(2) {
+    color: #9be1ff;
+    margin-left: 4px;
+}
+
+.amChartsLegend {
+    width: 400px !important;
+}
+
+.DonguDiv {
+    float: right;
+    margin-right: 20px;
+}

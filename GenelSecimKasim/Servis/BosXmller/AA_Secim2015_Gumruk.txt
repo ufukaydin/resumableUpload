@@ -1,0 +1,3592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AA>
+  <Secim Adi="2015 Genel Seçimleri - Gümrük Bazında Sonuçlar"/>
+  <Guncelleme>14.05.2015 11:43:51</Guncelleme>
+  <GumrukGeneli>
+    <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+    <Sonuclar>
+      <Parti No="1" Adi="DYP" Oy="0"/>
+      <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+      <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+      <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+      <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+      <Parti No="6" Adi="HAP" Oy="0"/>
+      <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+      <Parti No="8" Adi="TURK Parti" Oy="0"/>
+      <Parti No="9" Adi="HKP" Oy="0"/>
+      <Parti No="10" Adi="LDP" Oy="0"/>
+      <Parti No="11" Adi="MHP" Oy="0"/>
+      <Parti No="12" Adi="HDP" Oy="0"/>
+      <Parti No="13" Adi="Saadet" Oy="0"/>
+      <Parti No="14" Adi="CHP" Oy="0"/>
+      <Parti No="15" Adi="AK Parti" Oy="0"/>
+      <Parti No="16" Adi="DSP" Oy="0"/>
+      <Parti No="17" Adi="YURT-P" Oy="0"/>
+      <Parti No="18" Adi="DP" Oy="0"/>
+      <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+      <Parti No="20" Adi="BTP" Oy="0"/>
+    </Sonuclar>
+  </GumrukGeneli>
+  <GumrukBolgeleri>
+    <Bolge Ad="KOSOVA" Kod="9773">
+      <AltBolge Ad="Priştine Büyükelçiliği" Kod="10262">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="AMERİKA BİRLEŞİK DEV." Kod="9988">
+      <AltBolge Ad="Houston Başkonsolosluğu" Kod="10023">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Los Angeles Başkonsolosluğu" Kod="10032">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="New York Başkonsolosluğu" Kod="10043">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Şikago Başkonsolosluğu" Kod="10054">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Boston Başkonsolosluğu" Kod="10067">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Miami Başkonsolosluğu" Kod="10078">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Vaşington Büyükelçiliği" Kod="10236">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="BİRLEŞİK ARAP EMİR." Kod="9984">
+      <AltBolge Ad="Dubai Başkonsolosluğu" Kod="10012">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Abu Dhabi Büyükelçiliği" Kod="10151">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="BİRLEŞİK KRALLIK" Kod="9985">
+      <AltBolge Ad="Londra Başkonsolosluğu" Kod="10031">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Edinburg Başkonsolosluğu" Kod="10089">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="TÜRKMENİSTAN" Kod="9835">
+      <AltBolge Ad="Aşkabat Büyükelçiliği" Kod="10155">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="ÖZBEKİSTAN" Kod="9836">
+      <AltBolge Ad="Taşkent Büyükelçiliği" Kod="10226">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="UKRAYNA" Kod="9837">
+      <AltBolge Ad="Odessa Başkonsolosluğu" Kod="10062">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Kiev Büyükelçiliği" Kod="10188">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="MAKEDONYA" Kod="9826">
+      <AltBolge Ad="Üsküp Büyükelçiliği" Kod="10234">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="RUSYA FEDERASYONU" Kod="9831">
+      <AltBolge Ad="Kazan Başkonsolosluğu" Kod="10027">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Novorossiysk Başkonsolosluğu" Kod="10058">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="St. Petersburg Başkonsolosluğu" Kod="10061">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Moskova Büyükelçiliği" Kod="10205">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="BAHREYN" Kod="9849">
+      <AltBolge Ad="Manama Büyükelçiliği" Kod="10159">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="BELÇİKA" Kod="9852">
+      <AltBolge Ad="Anvers Başkonsolosluğu" Kod="10001">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Brüksel Başkonsolosluğu" Kod="10007">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="ARNAVUTLUK" Kod="9841">
+      <AltBolge Ad="Tirana Büyükelçiliği" Kod="10228">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="CEZAYİR" Kod="9842">
+      <AltBolge Ad="Cezayir Büyükelçiliği" Kod="10173">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="AVUSTURYA" Kod="9847">
+      <AltBolge Ad="Bregenz Başkonsolosluğu" Kod="10006">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Salzburg Başkonsolosluğu" Kod="10048">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Viyana Başkonsolosluğu" Kod="10060">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="GÜMRÜK" Kod="9000">
+      <AltBolge Ad="ESENBOĞA HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20001">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="SEYHAN ŞAKİRPAŞA HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20002">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="İPSALA KARAYOLU GEÇİCİ GÜMRÜK KAPISI" Kod="20006">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="ADNAN MENDERES HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20007">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="SİLİFKE TAŞUCU DENİZ LİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20009">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="ÇEŞME DENİZ LİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20010">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="HAMZABEYLİ KARAYOLU GEÇİCİ GÜMRÜK KAPISI" Kod="20012">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="ARALIK DİLUCU GEÇİCİ GÜMRÜK KAPISI" Kod="20016">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="DALAMAN HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20020">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="BODRUM-MİLAS-GÜLLÜK HAVA ALANI GEÇİCİ GÜMRÜK KAPISI" Kod="20021">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="BAKIRKÖY ATATÜRK HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20024">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="SABİHA GÖKÇEN HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20026">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="SARP KARAYOLU GEÇİCİ GÜMRÜK KAPISI" Kod="20028">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="ESKİŞEHİR HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20029">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="SAMSUN HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20031">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="KUŞADASI DENİZ LİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20033">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="ANTALYA MURATPAŞA HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20063">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="DERİNCE LİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20103">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="MERSİN LİMAN GEÇİCİ GÜMRÜK KAPISI" Kod="20104">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="SELÇUKLU GEÇİCİ GÜMRÜK KAPISI" Kod="20123">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="HATAY HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20124">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="ZONGULDAK HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20143">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="ELAZIĞ HAVALİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20164">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="BODRUM MENDİREK LİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20166">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="MARMARİS BİRİNCİ GEÇİCİ GÜMRÜK KAPISI SEÇİM KURULU" Kod="20167">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="AYVALIK LİMANI GEÇİCİ GÜMRÜK KAPISI" Kod="20168">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="AVUSTRALYA" Kod="9846">
+      <AltBolge Ad="Melburn Başkonsolosluğu" Kod="10036">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Sidney Başkonsolosluğu" Kod="10050">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Kanberra Büyükelçiliği" Kod="10186">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="ÇEK CUMHURİYETİ" Kod="9817">
+      <AltBolge Ad="Prag Büyükelçiliği" Kod="10212">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="BOSNA-HERSEK" Kod="9816">
+      <AltBolge Ad="Saraybosna Büyükelçiliği" Kod="10219">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="KIRGIZİSTAN" Kod="9823">
+      <AltBolge Ad="Bişkek Büyükelçiliği" Kod="10161">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="KAZAKİSTAN" Kod="9822">
+      <AltBolge Ad="Almatı Başkonsolosluğu" Kod="10063">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Aktau Başkonsolosluğu" Kod="10092">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Astana Büyükelçiliği" Kod="10246">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="GÜRCİSTAN" Kod="9821">
+      <AltBolge Ad="Batum Başkonsolosluğu" Kod="10003">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Tiflis Büyükelçiliği" Kod="10229">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="AZERBAYCAN" Kod="9814">
+      <AltBolge Ad="Nahçivan Başkonsolosluğu" Kod="10042">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Gence Başkonsolosluğu" Kod="10071">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Bakü Büyükelçiliği" Kod="10158">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="ALMANYA" Kod="9893">
+      <AltBolge Ad="Berlin Başkonsolosluğu" Kod="10004">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Düsseldorf Başkonsolosluğu" Kod="10013">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Essen Başkonsolosluğu" Kod="10014">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Frankfurt Başkonsolosluğu" Kod="10017">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Hamburg Başkonsolosluğu" Kod="10020">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Hannover Başkonsolosluğu" Kod="10021">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Karlsruhe Başkonsolosluğu" Kod="10026">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Köln Başkonsolosluğu" Kod="10028">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Mainz Başkonsolosluğu" Kod="10034">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Münih Başkonsolosluğu" Kod="10040">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Münster Başkonsolosluğu" Kod="10041">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Nürnberg Başkonsolosluğu" Kod="10044">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Stuttgart Başkonsolosluğu" Kod="10052">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="YUNANİSTAN" Kod="9895">
+      <AltBolge Ad="Atina-Pire Başkonsolosluğu" Kod="10002">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Gümülcine Başkonsolosluğu" Kod="10018">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Rodos Başkonsolosluğu" Kod="10046">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Selanik Başkonsolosluğu" Kod="10049">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="FİNLANDİYA" Kod="9889">
+      <AltBolge Ad="Helsinki Büyükelçiliği" Kod="10182">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="FRANSA" Kod="9890">
+      <AltBolge Ad="Lyon Başkonsolosluğu" Kod="10033">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Marsilya Başkonsolosluğu" Kod="10035">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Paris Başkonsolosluğu" Kod="10045">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Strazburg Başkonsolosluğu" Kod="10051">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Bordeaux Başkonsolosluğu" Kod="10074">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Nantes Başkonsolosluğu" Kod="10075">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="MACARİSTAN" Kod="9903">
+      <AltBolge Ad="Budapeşte Büyükelçiliği" Kod="10169">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="İRLANDA" Kod="9909">
+      <AltBolge Ad="Dublin Büyükelçiliği" Kod="10177">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="İSRAİL" Kod="9910">
+      <AltBolge Ad="Telaviv Büyükelçiliği" Kod="10227">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="İTALYA" Kod="9911">
+      <AltBolge Ad="Milano Başkonsolosluğu" Kod="10037">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Roma Büyükelçiliği" Kod="10216">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="İRAN" Kod="9907">
+      <AltBolge Ad="Tebriz Başkonsolosluğu" Kod="10055">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Urumiye Başkonsolosluğu" Kod="10056">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Tahran Büyükelçiliği" Kod="10225">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="KUVEYT" Kod="9917">
+      <AltBolge Ad="Kuveyt Büyükelçiliği" Kod="10193">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="LÜBNAN" Kod="9919">
+      <AltBolge Ad="Beyrut Büyükelçiliği" Kod="10164">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="JAPONYA" Kod="9914">
+      <AltBolge Ad="Tokyo Büyükelçiliği" Kod="10230">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="ÜRDÜN" Kod="9915">
+      <AltBolge Ad="Amman Büyükelçiliği" Kod="10154">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="KANADA" Kod="9863">
+      <AltBolge Ad="Toronto Başkonsolosluğu" Kod="10070">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Ottava Büyükelçiliği" Kod="10209">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="BULGARİSTAN" Kod="9859">
+      <AltBolge Ad="Burgaz Başkonsolosluğu" Kod="10008">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Filibe Başkonsolosluğu" Kod="10016">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Sofya Büyükelçiliği" Kod="10222">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="ÇİN HALK CUMHURİYETİ" Kod="9868">
+      <AltBolge Ad="Hong Kong Başkonsolosluğu" Kod="10022">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Şanghay Başkonsolosluğu" Kod="10053">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Guangzhou Başkonsolosluğu" Kod="10073">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Pekin Büyükelçiliği" Kod="10211">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="DANİMARKA" Kod="9879">
+      <AltBolge Ad="Kopenhag Büyükelçiliği" Kod="10191">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="KUZEY KIBRIS TÜRK CUM." Kod="9875">
+      <AltBolge Ad="Lefkoşa Büyükelçiliği" Kod="10196">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="MISIR" Kod="9884">
+      <AltBolge Ad="İskenderiye Başkonsolosluğu" Kod="10024">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Kahire Büyükelçiliği" Kod="10185">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="KATAR" Kod="9953">
+      <AltBolge Ad="Doha Büyükelçiliği" Kod="10176">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="ROMANYA" Kod="9954">
+      <AltBolge Ad="Köstence Başkonsolosluğu" Kod="10029">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Bükreş Büyükelçiliği" Kod="10171">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="SUUDİ ARABİSTAN" Kod="9960">
+      <AltBolge Ad="Cidde Başkonsolosluğu" Kod="10010">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Riyad Büyükelçiliği" Kod="10215">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="GÜNEY AFRİKA" Kod="9967">
+      <AltBolge Ad="Pretorya Büyükelçiliği" Kod="10213">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="İSPANYA" Kod="9968">
+      <AltBolge Ad="Barselona Başkonsolosluğu" Kod="10064">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Madrid Büyükelçiliği" Kod="10201">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="SUDAN" Kod="9970">
+      <AltBolge Ad="Hartum Büyükelçiliği" Kod="10179">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="İSVEÇ" Kod="9973">
+      <AltBolge Ad="Stokholm Büyükelçiliği" Kod="10223">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="İSVİÇRE" Kod="9974">
+      <AltBolge Ad="Cenevre Başkonsolosluğu" Kod="10009">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Zürih Başkonsolosluğu" Kod="10057">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Bern Büyükelçiliği" Kod="10163">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="TAYLAND" Kod="9976">
+      <AltBolge Ad="Bangkok Büyükelçiliği" Kod="10160">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="HOLLANDA" Kod="9938">
+      <AltBolge Ad="Deventer Başkonsolosluğu" Kod="10011">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+      <AltBolge Ad="Rotterdam Başkonsolosluğu" Kod="10047">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="YENİ ZELANDA" Kod="9939">
+      <AltBolge Ad="Wellington Büyükelçiliği" Kod="10241">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="NORVEÇ" Kod="9943">
+      <AltBolge Ad="Oslo Büyükelçiliği" Kod="10208">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="UMMAN" Kod="9944">
+      <AltBolge Ad="Muskat Büyükelçiliği" Kod="10206">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+    <Bolge Ad="POLONYA" Kod="9951">
+      <AltBolge Ad="Varşova Büyükelçiliği" Kod="10235">
+        <Sandik ToplamSandik="0" ToplamSecmen="0" AcilanSandikSecmenSayisi="0" AcilanSandik="0" KullanilanOy="0" GecerliOy="0"/>
+        <Sonuclar>
+          <Parti No="1" Adi="DYP" Oy="0"/>
+          <Parti No="2" Adi="Anadolu Partisi" Oy="0"/>
+          <Parti No="3" Adi="HAK-PAR" Oy="0"/>
+          <Parti No="4" Adi="Komünist Parti" Oy="0"/>
+          <Parti No="5" Adi="Millet Partisi" Oy="0"/>
+          <Parti No="6" Adi="HAP" Oy="0"/>
+          <Parti No="7" Adi="Merkez Parti" Oy="0"/>
+          <Parti No="8" Adi="TURK Parti" Oy="0"/>
+          <Parti No="9" Adi="HKP" Oy="0"/>
+          <Parti No="10" Adi="LDP" Oy="0"/>
+          <Parti No="11" Adi="MHP" Oy="0"/>
+          <Parti No="12" Adi="HDP" Oy="0"/>
+          <Parti No="13" Adi="Saadet" Oy="0"/>
+          <Parti No="14" Adi="CHP" Oy="0"/>
+          <Parti No="15" Adi="AK Parti" Oy="0"/>
+          <Parti No="16" Adi="DSP" Oy="0"/>
+          <Parti No="17" Adi="YURT-P" Oy="0"/>
+          <Parti No="18" Adi="DP" Oy="0"/>
+          <Parti No="19" Adi="Vatan Partisi" Oy="0"/>
+          <Parti No="20" Adi="BTP" Oy="0"/>
+        </Sonuclar>
+      </AltBolge>
+    </Bolge>
+  </GumrukBolgeleri>
+</AA>

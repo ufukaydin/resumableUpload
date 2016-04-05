@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body >
+    <canvas id="viewport"></canvas>
+    <img id="test" width="300" height="300" src="https://anadolum.aa.com.tr/forms/personel/4710.jpg" />
+    <script type="text/javascript">
+        var canvas = document.getElementById('viewport');
+        context = canvas.getContext('2d');
+        var erase_image = document.getElementById("test");
+       
+        erase_image.onload = function () {
+            context.drawImage(erase_image, 0, 0, 600, 400, 0, 0, 600, 400);
+          
+        }
+      
+    
+    </script>
+</body>
+</html>

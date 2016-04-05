@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SAPNCo.x86</id>
+    <version>3.0.13.1</version>
+    <title>SAP .Net Connector x86</title>
+    <authors>SAP AG</authors>
+    <owners>SAP AG</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SAP NCo 3 x86 assemblies required to connect to SAP using RFC.
+
+To learn more about NCo, please visit https://help.sap.com/saphelp_nw04/helpdata/en/e9/23c80d66d08c4c8c044a3ea11ca90f/content.htm</description>
+    <tags>sap nco nco3 sap-connector</tags>
+  </metadata>
+</package>

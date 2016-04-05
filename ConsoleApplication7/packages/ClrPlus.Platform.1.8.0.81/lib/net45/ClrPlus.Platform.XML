@@ -1,0 +1,2735 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClrPlus.Platform</name>
+    </assembly>
+    <members>
+        <member name="M:ClrPlus.Platform.AdminPrivilege.IsUserInAdminGroup">
+            <summary>
+                The function checks whether the primary access token of the process belongs to user account that is a member of the local Administrators group, even if it currently is not elevated.
+            </summary>
+            <returns> Returns true if the primary access token of the process belongs to user account that is a member of the local Administrators group. Returns false if the token does not. </returns>
+            <exception cref="T:System.ComponentModel.Win32Exception">
+                When any native Windows API call fails, the function throws a Win32Exception
+                with the last error code.
+            </exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AdminPrivilege.IsProcessElevated">
+            <summary>
+                The function gets the elevation information of the current process. It dictates whether the process is elevated or not. Token elevation is only available on Windows Vista and newer operating systems, thus IsProcessElevated throws a C++ exception if it is called on systems prior to Windows Vista. It is not appropriate to use this function to determine whether a process is run as administartor.
+            </summary>
+            <returns> Returns true if the process is elevated. Returns false if it is not. </returns>
+            <exception cref="T:System.ComponentModel.Win32Exception">
+                When any native Windows API call fails, the function throws a Win32Exception
+                with the last error code.
+            </exception>
+            <remarks>
+                TOKEN_INFORMATION_CLASS provides TokenElevationType to check the elevation type (TokenElevationTypeDefault / TokenElevationTypeLimited / TokenElevationTypeFull) of the process. It is different from TokenElevation in that, when UAC is turned off, elevation type always returns TokenElevationTypeDefault even though the process is elevated (Integrity Level == High). In other words, it is not safe to say if the process is elevated based on elevation type. Instead, we should use TokenElevation.
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.AdminPrivilege.GetProcessIntegrityLevel">
+            <summary>
+                The function gets the integrity level of the current process. Integrity level is only available on Windows Vista and newer operating systems, thus GetProcessIntegrityLevel throws a C++ exception if it is called on systems prior to Windows Vista.
+            </summary>
+            <returns> Returns the integrity level of the current process. It is usually one of these values: SECURITY_MANDATORY_UNTRUSTED_RID - means untrusted level. It is used by processes started by the Anonymous group. Blocks most write access. (SID: S-1-16-0x0) SECURITY_MANDATORY_LOW_RID - means low integrity level. It is used by Protected Mode Internet Explorer. Blocks write acess to most objects (such as files and registry keys) on the system. (SID: S-1-16-0x1000) SECURITY_MANDATORY_MEDIUM_RID - means medium integrity level. It is used by normal applications being launched while UAC is enabled. (SID: S-1-16-0x2000) SECURITY_MANDATORY_HIGH_RID - means high integrity level. It is used by administrative applications launched through elevation when UAC is enabled, or normal applications if UAC is disabled and the user is an administrator. (SID: S-1-16-0x3000) SECURITY_MANDATORY_SYSTEM_RID - means system integrity level. It is used by services and other system-level applications (such as Wininit, Winlogon, Smss, etc.) (SID: S-1-16-0x4000) </returns>
+            <exception cref="T:System.ComponentModel.Win32Exception">
+                When any native Windows API call fails, the function throws a Win32Exception
+                with the last error code.
+            </exception>
+        </member>
+        <member name="P:ClrPlus.Platform.AdminPrivilege.IsRunAsAdmin">
+            <summary>
+                The function checks whether the current process is run as administrator. In other words, it dictates whether the primary access token of the process belongs to user account that is a member of the local Administrators group and it is elevated.
+            </summary>
+            <returns> Returns true if the primary access token of the process belongs to user account that is a member of the local Administrators group and it is elevated. Returns false if the token does not. </returns>
+        </member>
+        <member name="T:ClrPlus.Platform.AlternateDataStreamInfo">
+            <summary>
+                Represents the details of an alternative data stream.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.#ctor(System.String,ClrPlus.Platform.SafeNativeMethods.Win32StreamInfo)">
+            <summary>
+                Initializes a new instance of the <see cref="T:ClrPlus.Platform.AlternateDataStreamInfo"/> class.
+            </summary>
+            <param name="filePath">
+                The full path of the file. This argument must not be <see langword="null"/> .
+            </param>
+            <param name="info">
+                The <see cref="T:ClrPlus.Platform.SafeNativeMethods.Win32StreamInfo"/> containing the stream information.
+            </param>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.#ctor(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+                Initializes a new instance of the <see cref="T:ClrPlus.Platform.AlternateDataStreamInfo"/> class.
+            </summary>
+            <param name="filePath">
+                The full path of the file. This argument must not be <see langword="null"/> .
+            </param>
+            <param name="streamName">
+                The name of the stream This argument must not be <see langword="null"/> .
+            </param>
+            <param name="fullPath">
+                The full path of the stream. If this argument is <see langword="null"/> , it will be generated from the
+                <paramref name="filePath"/>
+                and <paramref name="streamName"/> arguments.
+            </param>
+            <param name="exists">
+                <see langword="true"/> if the stream exists; otherwise, <see langword="false"/> .
+            </param>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.Equals(ClrPlus.Platform.AlternateDataStreamInfo)">
+            <summary>
+                Returns a value indicating whether this instance is equal to another instance.
+            </summary>
+            <param name="other"> The instance to compare to. </param>
+            <returns>
+                <see langword="true" /> if the current object is equal to the <paramref name="other" /> parameter; otherwise,
+                <see
+                    langword="false" />
+                .
+            </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.ToString">
+            <summary>
+                Returns a <see cref="T:System.String"/> that represents the current instance.
+            </summary>
+            <returns>
+                A <see cref="T:System.String"/> that represents the current instance.
+            </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.GetHashCode">
+            <summary>
+                Serves as a hash function for a particular type.
+            </summary>
+            <returns>
+                A hash code for the current <see cref="T:System.Object"/> .
+            </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.Equals(System.Object)">
+            <summary>
+                Indicates whether the current object is equal to another object of the same type.
+            </summary>
+            <param name="obj"> An object to compare with this object. </param>
+            <returns>
+                <see langword="true" /> if the current object is equal to the <paramref name="obj" /> parameter; otherwise,
+                <see
+                    langword="false" />
+                .
+            </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.op_Equality(ClrPlus.Platform.AlternateDataStreamInfo,ClrPlus.Platform.AlternateDataStreamInfo)">
+            <summary>
+                The equality operator.
+            </summary>
+            <param name="first"> The first object. </param>
+            <param name="second"> The second object. </param>
+            <returns>
+                <see langword="true" /> if the two objects are equal; otherwise, <see langword="false" /> .
+            </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.op_Inequality(ClrPlus.Platform.AlternateDataStreamInfo,ClrPlus.Platform.AlternateDataStreamInfo)">
+            <summary>
+                The inequality operator.
+            </summary>
+            <param name="first"> The first object. </param>
+            <param name="second"> The second object. </param>
+            <returns>
+                <see langword="true" /> if the two objects are not equal; otherwise, <see langword="false" /> .
+            </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.Delete">
+            <summary>
+                Deletes this stream from the parent file.
+            </summary>
+            <returns>
+                <see langword="true"/> if the stream was deleted; otherwise, <see langword="false"/> .
+            </returns>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.CalculateAccess(System.IO.FileMode,System.IO.FileAccess)">
+            <summary>
+                Calculates the access to demand.
+            </summary>
+            <param name="mode">
+                The <see cref="T:System.IO.FileMode"/> .
+            </param>
+            <param name="access">
+                The <see cref="T:System.IO.FileAccess"/> .
+            </param>
+            <returns>
+                The <see cref="T:System.Security.Permissions.FileIOPermissionAccess"/> .
+            </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.Open(System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,System.Int32,System.Boolean)">
+            <summary>
+                Opens this alternate data stream.
+            </summary>
+            <param name="mode">
+                A <see cref="T:System.IO.FileMode"/> value that specifies whether a stream is created if one does not exist, and determines whether the contents of existing streams are retained or overwritten.
+            </param>
+            <param name="access">
+                A <see cref="T:System.IO.FileAccess"/> value that specifies the operations that can be performed on the stream.
+            </param>
+            <param name="share">
+                A <see cref="T:System.IO.FileShare"/> value specifying the type of access other threads have to the file.
+            </param>
+            <param name="bufferSize"> The size of the buffer to use. </param>
+            <param name="useAsync">
+                <see langword="true"/> to enable async-IO; otherwise, <see langword="false"/> .
+            </param>
+            <returns>
+                A <see cref="T:System.IO.FileStream"/> for this alternate data stream.
+            </returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+                <paramref name="bufferSize"/>
+                is less than or equal to zero.
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+            <exception cref="T:System.ComponentModel.Win32Exception">There was an error opening the stream.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.Open(System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare,System.Int32)">
+            <summary>
+                Opens this alternate data stream.
+            </summary>
+            <param name="mode">
+                A <see cref="T:System.IO.FileMode"/> value that specifies whether a stream is created if one does not exist, and determines whether the contents of existing streams are retained or overwritten.
+            </param>
+            <param name="access">
+                A <see cref="T:System.IO.FileAccess"/> value that specifies the operations that can be performed on the stream.
+            </param>
+            <param name="share">
+                A <see cref="T:System.IO.FileShare"/> value specifying the type of access other threads have to the file.
+            </param>
+            <param name="bufferSize"> The size of the buffer to use. </param>
+            <returns>
+                A <see cref="T:System.IO.FileStream"/> for this alternate data stream.
+            </returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">
+                <paramref name="bufferSize"/>
+                is less than or equal to zero.
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+            <exception cref="T:System.ComponentModel.Win32Exception">There was an error opening the stream.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.Open(System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)">
+            <summary>
+                Opens this alternate data stream.
+            </summary>
+            <param name="mode">
+                A <see cref="T:System.IO.FileMode"/> value that specifies whether a stream is created if one does not exist, and determines whether the contents of existing streams are retained or overwritten.
+            </param>
+            <param name="access">
+                A <see cref="T:System.IO.FileAccess"/> value that specifies the operations that can be performed on the stream.
+            </param>
+            <param name="share">
+                A <see cref="T:System.IO.FileShare"/> value specifying the type of access other threads have to the file.
+            </param>
+            <returns>
+                A <see cref="T:System.IO.FileStream"/> for this alternate data stream.
+            </returns>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+            <exception cref="T:System.ComponentModel.Win32Exception">There was an error opening the stream.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.Open(System.IO.FileMode,System.IO.FileAccess)">
+            <summary>
+                Opens this alternate data stream.
+            </summary>
+            <param name="mode">
+                A <see cref="T:System.IO.FileMode"/> value that specifies whether a stream is created if one does not exist, and determines whether the contents of existing streams are retained or overwritten.
+            </param>
+            <param name="access">
+                A <see cref="T:System.IO.FileAccess"/> value that specifies the operations that can be performed on the stream.
+            </param>
+            <returns>
+                A <see cref="T:System.IO.FileStream"/> for this alternate data stream.
+            </returns>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+            <exception cref="T:System.ComponentModel.Win32Exception">There was an error opening the stream.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.Open(System.IO.FileMode)">
+            <summary>
+                Opens this alternate data stream.
+            </summary>
+            <param name="mode">
+                A <see cref="T:System.IO.FileMode"/> value that specifies whether a stream is created if one does not exist, and determines whether the contents of existing streams are retained or overwritten.
+            </param>
+            <returns>
+                A <see cref="T:System.IO.FileStream"/> for this alternate data stream.
+            </returns>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+            <exception cref="T:System.ComponentModel.Win32Exception">There was an error opening the stream.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.OpenRead">
+            <summary>
+                Opens this stream for reading.
+            </summary>
+            <returns>
+                A read-only <see cref="T:System.IO.FileStream"/> for this stream.
+            </returns>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+            <exception cref="T:System.ComponentModel.Win32Exception">There was an error opening the stream.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.OpenWrite">
+            <summary>
+                Opens this stream for writing.
+            </summary>
+            <returns>
+                A write-only <see cref="T:System.IO.FileStream"/> for this stream.
+            </returns>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+            <exception cref="T:System.ComponentModel.Win32Exception">There was an error opening the stream.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.AlternateDataStreamInfo.OpenText">
+            <summary>
+                Opens this stream as a text file.
+            </summary>
+            <returns>
+                A <see cref="T:System.IO.StreamReader"/> which can be used to read the contents of this stream.
+            </returns>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+            <exception cref="T:System.ArgumentException">The path of the stream is invalid.</exception>
+            <exception cref="T:System.ComponentModel.Win32Exception">There was an error opening the stream.</exception>
+        </member>
+        <member name="P:ClrPlus.Platform.AlternateDataStreamInfo.FullPath">
+            <summary>
+                Returns the full path of this stream.
+            </summary>
+            <value> The full path of this stream. </value>
+        </member>
+        <member name="P:ClrPlus.Platform.AlternateDataStreamInfo.FilePath">
+            <summary>
+                Returns the full path of the file which contains the stream.
+            </summary>
+            <value> The full file-system path of the file which contains the stream. </value>
+        </member>
+        <member name="P:ClrPlus.Platform.AlternateDataStreamInfo.Name">
+            <summary>
+                Returns the name of the stream.
+            </summary>
+            <value> The name of the stream. </value>
+        </member>
+        <member name="P:ClrPlus.Platform.AlternateDataStreamInfo.Exists">
+            <summary>
+                Returns a flag indicating whether the specified stream exists.
+            </summary>
+            <value>
+                <see langword="true" /> if the stream exists; otherwise, <see langword="false" /> .
+            </value>
+        </member>
+        <member name="P:ClrPlus.Platform.AlternateDataStreamInfo.Size">
+            <summary>
+                Returns the size of the stream, in bytes.
+            </summary>
+            <value> The size of the stream, in bytes. </value>
+        </member>
+        <member name="P:ClrPlus.Platform.AlternateDataStreamInfo.StreamType">
+            <summary>
+                Returns the type of data.
+            </summary>
+            <value>
+                One of the <see cref="T:ClrPlus.Windows.Api.Enumerations.FileStreamType"/> values.
+            </value>
+        </member>
+        <member name="P:ClrPlus.Platform.AlternateDataStreamInfo.Attributes">
+            <summary>
+                Returns attributes of the data stream.
+            </summary>
+            <value>
+                A combination of <see cref="T:ClrPlus.Windows.Api.Flags.FileStreamAttributes"/> values.
+            </value>
+        </member>
+        <member name="T:ClrPlus.Platform.FileSystem">
+            <summary>
+                File-system utilities.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.CreateInfo(System.String)">
+            <summary>
+                Creates a <see cref="T:System.IO.FileSystemInfo"/> for the specified path.
+            </summary>
+            <param name="path"> The path of the file or directory. </param>
+            <returns>
+                The <see cref="T:System.IO.FileSystemInfo"/> representing the file or directory.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="path"/>
+                is
+                <see langword="null"/>
+                or empty.
+            </exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.ListAlternateDataStreams(System.IO.FileSystemInfo)">
+            <summary>
+                <span style="font-weight:bold;color:#a00;">(Extension Method)</span> <br/> Returns a read-only list of alternate data streams for the specified file.
+            </summary>
+            <param name="file">
+                The <see cref="T:System.IO.FileSystemInfo"/> to inspect.
+            </param>
+            <returns>
+                A read-only list of <see cref="T:ClrPlus.Platform.AlternateDataStreamInfo"/> objects representing the alternate data streams for the specified file, if any. If no streams are found, returns an empty list.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="file"/>
+                is
+                <see langword="null"/>
+                .
+            </exception>
+            <exception cref="T:System.IO.FileNotFoundException">
+                The specified
+                <paramref name="file"/>
+                does not exist.
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.ListAlternateDataStreams(System.String)">
+            <summary>
+                Returns a read-only list of alternate data streams for the specified file.
+            </summary>
+            <param name="filePath"> The full path of the file to inspect. </param>
+            <returns>
+                A read-only list of <see cref="T:ClrPlus.Platform.AlternateDataStreamInfo"/> objects representing the alternate data streams for the specified file, if any.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="filePath"/>
+                is
+                <see langword="null"/>
+                or an empty string.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <paramref name="filePath"/>
+                is not a valid file path.
+            </exception>
+            <exception cref="T:System.IO.FileNotFoundException">
+                The specified
+                <paramref name="filePath"/>
+                does not exist.
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.AlternateDataStreamExists(System.IO.FileSystemInfo,System.String)">
+            <summary>
+                <span style="font-weight:bold;color:#a00;">(Extension Method)</span> <br/> Returns a flag indicating whether the specified alternate data stream exists.
+            </summary>
+            <param name="file">
+                The <see cref="T:System.IO.FileInfo"/> to inspect.
+            </param>
+            <param name="streamName"> The name of the stream to find. </param>
+            <returns>
+                <see langword="true"/> if the specified stream exists; otherwise, <see langword="false"/> .
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="file"/>
+                is
+                <see langword="null"/>
+                .
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <paramref name="streamName"/>
+                contains invalid characters.
+            </exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.AlternateDataStreamExists(System.String,System.String)">
+            <summary>
+                Returns a flag indicating whether the specified alternate data stream exists.
+            </summary>
+            <param name="filePath"> The path of the file to inspect. </param>
+            <param name="streamName"> The name of the stream to find. </param>
+            <returns>
+                <see langword="true"/> if the specified stream exists; otherwise, <see langword="false"/> .
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="filePath"/>
+                is
+                <see langword="null"/>
+                or an empty string.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <para>
+                    <paramref name="filePath"/>
+                    is not a valid file path.
+                </para>
+                <para>-or-</para>
+                <para>
+                    <paramref name="streamName"/>
+                    contains invalid characters.
+                </para>
+            </exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.GetAlternateDataStream(System.IO.FileSystemInfo,System.String,System.IO.FileMode)">
+            <summary>
+                <span style="font-weight:bold;color:#a00;">(Extension Method)</span> <br/> Opens an alternate data stream.
+            </summary>
+            <param name="file">
+                The <see cref="T:System.IO.FileInfo"/> which contains the stream.
+            </param>
+            <param name="streamName"> The name of the stream to open. </param>
+            <param name="mode">
+                One of the <see cref="T:System.IO.FileMode"/> values, indicating how the stream is to be opened.
+            </param>
+            <returns>
+                An <see cref="T:ClrPlus.Platform.AlternateDataStreamInfo"/> representing the stream.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="file"/>
+                is
+                <see langword="null"/>
+                .
+            </exception>
+            <exception cref="T:System.IO.FileNotFoundException">
+                The specified
+                <paramref name="file"/>
+                was not found.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <paramref name="streamName"/>
+                contains invalid characters.
+            </exception>
+            <exception cref="T:System.NotSupportedException">
+                <paramref name="mode"/>
+                is either
+                <see cref="F:System.IO.FileMode.Truncate"/>
+                or
+                <see cref="F:System.IO.FileMode.Append"/>
+                .
+            </exception>
+            <exception cref="T:System.IO.IOException">
+                <para>
+                    <paramref name="mode"/>
+                    is
+                    <see cref="F:System.IO.FileMode.Open"/>
+                    , and the stream doesn't exist.
+                </para>
+                <para>-or-</para>
+                <para>
+                    <paramref name="mode"/>
+                    is
+                    <see cref="F:System.IO.FileMode.CreateNew"/>
+                    , and the stream already exists.
+                </para>
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.GetAlternateDataStream(System.IO.FileSystemInfo,System.String)">
+            <summary>
+                <span style="font-weight:bold;color:#a00;">(Extension Method)</span> <br/> Opens an alternate data stream.
+            </summary>
+            <param name="file">
+                The <see cref="T:System.IO.FileInfo"/> which contains the stream.
+            </param>
+            <param name="streamName"> The name of the stream to open. </param>
+            <returns>
+                An <see cref="T:ClrPlus.Platform.AlternateDataStreamInfo"/> representing the stream.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="file"/>
+                is
+                <see langword="null"/>
+                .
+            </exception>
+            <exception cref="T:System.IO.FileNotFoundException">
+                The specified
+                <paramref name="file"/>
+                was not found.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <paramref name="streamName"/>
+                contains invalid characters.
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.GetAlternateDataStream(System.String,System.String,System.IO.FileMode)">
+            <summary>
+                Opens an alternate data stream.
+            </summary>
+            <param name="filePath"> The path of the file which contains the stream. </param>
+            <param name="streamName"> The name of the stream to open. </param>
+            <param name="mode">
+                One of the <see cref="T:System.IO.FileMode"/> values, indicating how the stream is to be opened.
+            </param>
+            <returns>
+                An <see cref="T:ClrPlus.Platform.AlternateDataStreamInfo"/> representing the stream.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="filePath"/>
+                is
+                <see langword="null"/>
+                or an empty string.
+            </exception>
+            <exception cref="T:System.IO.FileNotFoundException">
+                The specified
+                <paramref name="filePath"/>
+                was not found.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <para>
+                    <paramref name="filePath"/>
+                    is not a valid file path.
+                </para>
+                <para>-or-</para>
+                <para>
+                    <paramref name="streamName"/>
+                    contains invalid characters.
+                </para>
+            </exception>
+            <exception cref="T:System.NotSupportedException">
+                <paramref name="mode"/>
+                is either
+                <see cref="F:System.IO.FileMode.Truncate"/>
+                or
+                <see cref="F:System.IO.FileMode.Append"/>
+                .
+            </exception>
+            <exception cref="T:System.IO.IOException">
+                <para>
+                    <paramref name="mode"/>
+                    is
+                    <see cref="F:System.IO.FileMode.Open"/>
+                    , and the stream doesn't exist.
+                </para>
+                <para>-or-</para>
+                <para>
+                    <paramref name="mode"/>
+                    is
+                    <see cref="F:System.IO.FileMode.CreateNew"/>
+                    , and the stream already exists.
+                </para>
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.GetAlternateDataStream(System.String,System.String)">
+            <summary>
+                Opens an alternate data stream.
+            </summary>
+            <param name="filePath"> The path of the file which contains the stream. </param>
+            <param name="streamName"> The name of the stream to open. </param>
+            <returns>
+                An <see cref="T:ClrPlus.Platform.AlternateDataStreamInfo"/> representing the stream.
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="filePath"/>
+                is
+                <see langword="null"/>
+                or an empty string.
+            </exception>
+            <exception cref="T:System.IO.FileNotFoundException">
+                The specified
+                <paramref name="filePath"/>
+                was not found.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <para>
+                    <paramref name="filePath"/>
+                    is not a valid file path.
+                </para>
+                <para>-or-</para>
+                <para>
+                    <paramref name="streamName"/>
+                    contains invalid characters.
+                </para>
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.DeleteAlternateDataStream(System.IO.FileSystemInfo,System.String)">
+            <summary>
+                <span style="font-weight:bold;color:#a00;">(Extension Method)</span> <br/> Deletes the specified alternate data stream if it exists.
+            </summary>
+            <param name="file">
+                The <see cref="T:System.IO.FileInfo"/> to inspect.
+            </param>
+            <param name="streamName"> The name of the stream to delete. </param>
+            <returns>
+                <see langword="true"/> if the specified stream is deleted; otherwise, <see langword="false"/> .
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="file"/>
+                is
+                <see langword="null"/>
+                .
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <paramref name="streamName"/>
+                contains invalid characters.
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.FileSystem.DeleteAlternateDataStream(System.String,System.String)">
+            <summary>
+                Deletes the specified alternate data stream if it exists.
+            </summary>
+            <param name="filePath"> The path of the file to inspect. </param>
+            <param name="streamName"> The name of the stream to find. </param>
+            <returns>
+                <see langword="true"/> if the specified stream is deleted; otherwise, <see langword="false"/> .
+            </returns>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="filePath"/>
+                is
+                <see langword="null"/>
+                or an empty string.
+            </exception>
+            <exception cref="T:System.ArgumentException">
+                <para>
+                    <paramref name="filePath"/>
+                    is not a valid file path.
+                </para>
+                <para>-or-</para>
+                <para>
+                    <paramref name="streamName"/>
+                    contains invalid characters.
+                </para>
+            </exception>
+            <exception cref="T:System.Security.SecurityException">The caller does not have the required permission.</exception>
+            <exception cref="T:System.UnauthorizedAccessException">The caller does not have the required permission, or the file is read-only.</exception>
+            <exception cref="T:System.IO.IOException">The specified file is in use.</exception>
+        </member>
+        <member name="T:ClrPlus.Platform.FilesystemExtensions">
+            <summary>
+                Functions related to handling things regarding files and filesystems.
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="F:ClrPlus.Platform.FilesystemExtensions.NonInterpretedPathPrefix">
+            <summary>
+                the Kernel filename prefix string for paths that should not be interpreted. Just nod, and keep goin'
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.FilesystemExtensions._counter">
+            <summary>
+                a running counter of for funtions wanting to number files with increasing numbers.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.FilesystemExtensions.FullPathCache">
+            <summary>
+                A hashset of strings that has already been fullpath'd
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.FilesystemExtensions.UncPrefixRx">
+            <summary>
+                regular expression to identify a UNC path returned by the Kernel. (needed for path normalization for reparse points)
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.FilesystemExtensions.DrivePrefixRx">
+            <summary>
+                regular expression to match a drive letter in a low level path (needed for path normalization for reparse points)
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.FilesystemExtensions.VolumePrefixRx">
+            <summary>
+                regular expression to identify a volume mount point (needed for path normalization for reparse points)
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.FilesystemExtensions.InvalidDoubleWcRx">
+            <summary>
+                Apparently, Eric has gone insane? NOTE: subject to cleanup.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.IsSubPath(System.String,System.String)">
+            <summary>
+                Determines if the childPath is a sub path of the rootPath
+            </summary>
+            <param name="rootPath"> The root path. </param>
+            <param name="childPath"> The child path. </param>
+            <returns>
+                <c>true</c> if [is sub path] [the specified root path]; otherwise, <c>false</c> .
+            </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.GetSubPath(System.String,System.String)">
+            <summary>
+                Gets the portion of the childPath that is a sub path of the parentPath Returns string.Empty if the childPath is not a sub path of the parent.
+            </summary>
+            <param name="parentPath"> The parent path. </param>
+            <param name="childPath"> The child path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.ChangeFileExtensionTo(System.String,System.String)">
+            <summary>
+                Changes the file extension to another extension.
+            </summary>
+            <param name="currentFilename"> The current filename. </param>
+            <param name="newExtension"> The new extension. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.RelativePathTo(System.String,System.String)">
+            <summary>
+                Gets the relative path between two paths.
+            </summary>
+            <param name="currentDirectory"> The current directory. </param>
+            <param name="pathToMakeRelative"> The path to make relative. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.GenerateTemplatedFilename(System.String,System.String)">
+            <summary>
+                Generates a filename based of a template that can contain many different values
+            </summary>
+            <param name="filename"> The filename. </param>
+            <param name="filenameHint"> The filename hint. </param>
+            <returns> </returns>
+            <remarks>
+                {filename} - substitutes for the original filename, no extension {ext} original extension {folder} - original folder {subfolder} - original folder without leading / {count} - a running count of the files downloaded. {date} - the current date (y-m-d) {date-long} - the date in long format {time} - the current time (Hh:mm:ss) {time-long} - the current time in long fmt {ticks} - the current timestamp as tics
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.FormatFilename(System.String,System.String[])">
+            <summary>
+                Generates a filename on a somewhat different template.
+            </summary>
+            <param name="filename"> The filename. </param>
+            <param name="parameters"> The parameters. </param>
+            <returns> </returns>
+            <remarks>
+                {date} - the current date (y-m-d) {date-long} - the date in long format {time} - the current time (Hh:mm:ss) {time-long} - the current time in long fmt {ticks} - the current timestamp as tics {counter} - a running counter
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.DirectoryEnumerateFilesSmarter(System.String,System.String,System.IO.SearchOption)">
+            <summary>
+                Enumerates files in a directory, smarter than Direcotry.EnumerateFiles (ie, doesn't throw, when it can't access something)
+            </summary>
+            <param name="path"> The path. </param>
+            <param name="searchPattern"> The search pattern. </param>
+            <param name="searchOption"> The search option. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.CanonicalizePathWithWildcards(System.String)">
+            <summary>
+                cleans up a path if it is a filesystem path, uri or wildcard. returns the original unmodified path if it is not.
+            </summary>
+            <param name="path"> </param>
+            <returns> </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.FindFilesSmarter(System.String,System.String)">
+            <summary>
+                A front end to DirectoryEnumerateFilesSmarter that allows for wildcards in the path or serarch mask (and expands it out to a full path first.) it also constrains the path as much as possible to keep from enumerating directories that will never match files.
+            </summary>
+            <param name="pathMask"> The path mask. </param>
+            <param name="subpathMask"> the sub path mask. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.FindFilesSmarter(System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+                finds matches for a collection of filenames using FindFilesSmarter (above)
+            </summary>
+            <param name="pathMasks"> The path masks. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.FindFilesSmarterComplex(System.String,System.String)">
+            <summary>
+                always call IsWildcardMatch with a prefix!!!!
+            </summary>
+            <param name="pathMask"> </param>
+            <param name="pathPrefix"> </param>
+            <returns> </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.NameWithoutExt(System.IO.FileInfo)">
+            <summary>
+                Gets the name of a file minus it's extension, ie: if the file name is "test.exe", returns "test".
+            </summary>
+            <param name="fi"> The fi. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.DirectoryExistsAndIsAccessible(System.String)">
+            <summary>
+                Directories the exists and is accessible.
+            </summary>
+            <param name="path"> The path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.WriteAllBytesToFile(System.IO.MemoryStream,System.String)">
+            <summary>
+                Writes all bytes from the contents of a memorystream to file (as a binary file).
+            </summary>
+            <param name="ms"> The ms. </param>
+            <param name="path"> The path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.ReadAllBytesFromFile(System.IO.MemoryStream,System.String)">
+            <summary>
+                Reads the contents of a file into a memory stream.
+            </summary>
+            <param name="ms"> The ms. </param>
+            <param name="path"> The path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.TryHardToMakeFileWriteable(System.String)">
+            <summary>
+                This makes sure a file is writable by moving the original, copying this one back then deleting the original (or at least tryinghardtodelete the original). This allows us to modify locked files in place.
+            </summary>
+            <param name="filename"> </param>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.CreateWritableWorkingCopy(System.String)">
+            <summary>
+                This makes a temporary copy of a file that we can work with.
+            </summary>
+            <param name="filename"> </param>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.Write(System.IO.FileStream,System.Byte[])">
+            <summary>
+                Writes the whole byte array to a filestream. (lazy!)
+            </summary>
+            <param name="fileStream"> The file stream. </param>
+            <param name="data"> The data. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.GetFullPath(System.String)">
+            <summary>
+                Returns the full path of a string. Short circuts the process if the string is a known full path already. (ie, the result of a preivious GetFullPath())
+            </summary>
+            <param name="path"> The path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.NormalizePath(System.String)">
+            <summary>
+                Translates paths starting with \??\ to regular paths.
+            </summary>
+            <param name="path"> The path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.CanonicalizePath(System.String,System.Boolean)">
+            <summary>
+                This takes a string that is representative of a filename and tries to create a path that can be considered the 'canonical' path. path on drives that are mapped as remote shares are rewritten as their \\server\share\path
+            </summary>
+            <returns> </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.GetFileMD5(System.String)">
+            <summary>
+                Returns the MD5 Hash of a file as an uppercase hex string
+            </summary>
+            <param name="filename"> the filename to retrive the hash for </param>
+            <returns> a string containing the md5 hash (32 characters) </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.GetNextPart(System.String)">
+            <summary>
+                Gets the next part. Note: Make Eric document this?
+            </summary>
+            <param name="path"> The path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.FixFilepathSlashes(System.String)">
+            <summary>
+                Replaces Unix style file path separators (/) with Windows style (\).
+            </summary>
+            <param name="filepath"> The filepath. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.FilesystemExtensions.IsSimpleSubPath(System.String)">
+            <summary>
+                Tells whether a given path is a simple subpath. A simple subpath has the following characteristics: - No drive letter or colon - Does not start with a slash - Does not contain any path part sections consisting of just "." or ".." - Does not contain wildcards
+            </summary>
+            <param name="path"> the path to check </param>
+            <returns> True if it is a simple subpath, false otherwise. </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.Information.CanUseWin32API">
+            <summary>
+                Use this to pivot on if it's OK to call Win32 APIs.
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.LegacySymlink">
+            <summary>
+                Synthetic Symlink implementation for Windows XP and Windows Server 2003
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="F:ClrPlus.Platform.LegacySymlink.legacySymlinkInfo">
+            <summary>
+                Name of the alternate stream for symlink info
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.LegacySymlink.linkedFile">
+            <summary>
+                Tag for the linked file info in the alternate stream
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.LegacySymlink.originalFile">
+            <summary>
+                Tag for the original file info in the alternate stream
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.LegacySymlink.linkedFileLength">
+            <summary>
+                string length of constant
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.LegacySymlink.originalFileLength">
+            <summary>
+                string length of constant
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.MakeFileLink(System.String,System.String)">
+            <summary>
+                Creates a symlink for the given file path. If the symlink already exists, it is updated.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <param name="actualFilePath"> The actual file path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.MakeDirectoryLink(System.String,System.String)">
+            <summary>
+                Creates a symlink for a directory. If it already exists, it is updated.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <param name="actualFolderPath"> The actual folder path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.ChangeLinkTarget(System.String,System.String)">
+            <summary>
+                Changes an existing link target to a new path.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <param name="newActualPath"> The new actual path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.DeleteSymlink(System.String)">
+            <summary>
+                Deletes the symlink.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.IsSymlink(System.String)">
+            <summary>
+                Determines whether the specified link path is symlink.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <returns>
+                <c>true</c> if the specified link path is symlink; otherwise, <c>false</c> .
+            </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.GetActualPath(System.String)">
+            <summary>
+                Gets the actual path.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.AddSymlinkToAlternateStream(System.String,System.String)">
+            <summary>
+                Adds the symlink to alternate stream.
+            </summary>
+            <param name="originalPath"> The original path. </param>
+            <param name="filename"> The filename. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.SetAlternateStreamData(System.String,System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+                Sets the alternate stream data. This writes out the symlink data to the synthetic symlink file.
+            </summary>
+            <param name="filename"> The filename. </param>
+            <param name="linkPaths"> The link paths. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.GetAlternateStreamData(System.String,System.String@)">
+            <summary>
+                Reads the alternate stream data.
+            </summary>
+            <param name="filename"> The filename. </param>
+            <param name="canonicalFilePath"> The canonical file path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.ScanFolder(System.String)">
+            <summary>
+                Scans the folder.
+            </summary>
+            <param name="path"> The path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.LegacySymlink.GetFileInfo(System.String)">
+            <summary>
+                Gets the file info.
+            </summary>
+            <param name="filename"> The filename. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="T:ClrPlus.Platform.MessageEventHandler">
+            <summary>
+                Defines a delegate for Message handling
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.NativeWindowWithEvent">
+            <summary>
+                Inherits from System.Windows.Form.NativeWindow. Provides an Event for Message handling
+            </summary>
+        </member>
+        <member name="T:CoApp.Toolkit.Utility.ProcessUtility">
+            <summary>
+            Wraps a Windows process
+            </summary>
+            <see cref="T:System.Diagnostics.Process"/>
+        </member>
+        <member name="F:CoApp.Toolkit.Utility.ProcessUtility.Executable">
+            <summary>
+            Path to this process' executable binary
+            </summary>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.Kill">
+            <summary>
+            Attempt to stop this process
+            </summary>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.SendToStandardIn(System.String)">
+            <summary>
+            Writes something to this process' standard input
+            </summary>
+            <param name="text">Text to write to this process</param>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.#ctor(System.String)">
+            <summary>
+            Creates a new ProcessUtility.
+            </summary>
+            <param name="filename">Path to the executable</param>
+            <exception cref="T:System.ArgumentNullException">The filename is not permitted to be null</exception>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.WaitForExit">
+            <summary>
+            Wait indefinately until the associated process has exited.
+            </summary>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.WaitForExit(System.Int32)">
+            <summary>
+            Wait for a specific number of milliseconds for the associated process to exit.
+            </summary>
+            <param name="milliseconds">Time to wait in milliseconds</param>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.AttachToConsoleForProcess">
+            <summary>
+            Safely attach to the console of the associated process
+            </summary>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.ExecAsync(System.String[])">
+            <summary>
+            Run the associated process asynchronously
+            </summary>
+            <param name="args">Command line parameters for the associated process</param>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.ExecAsync(System.String,System.String[])">
+            <summary>
+            Run the associated process asynchronously and redirect input/output
+            </summary>
+            <param name="arguments">Command line parameters as formatted string</param>
+            <param name="args">Zero or more strings to format</param>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.ExecAsyncNoRedirections(System.String,System.String[])">
+            <summary>
+            Run the associated process asynchronously
+            </summary>
+            <param name="arguments">Command line parameters as formatted string</param>
+            <param name="args">Zero or more strings to format</param>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.ExecAsyncNoStdInRedirect(System.String,System.String[])">
+            <summary>
+            Run the associated process asynchronously and redirect output
+            </summary>
+            <param name="arguments">Command line parameters as formatted string</param>
+            <param name="args">Zero or more strings to format</param>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.Exec(System.String[])">
+            <summary>
+            Run the associated process synchronously
+            </summary>
+            <param name="args">Command line parameters for the associated process</param>
+            <returns>The exit code of the associated process</returns>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.Exec(System.String,System.String[])">
+            <summary>
+            Run the associated process synchronously and redirect input/output
+            </summary>
+            <param name="arguments">Command line parameters as formatted string</param>
+            <param name="args">Zero or more strings to format</param>
+            <returns>The exit code of the associated process</returns>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.ExecNoRedirections(System.String,System.String[])">
+            <summary>
+            Run the associated process synchronously
+            </summary>
+            <param name="arguments">Command line parameters as formatted string</param>
+            <param name="args">Zero or more strings to format</param>
+        </member>
+        <member name="M:CoApp.Toolkit.Utility.ProcessUtility.ExecWithStdin(System.String,System.String,System.String[])">
+            <summary>
+            Run the associated process synchronously with a given input
+            </summary>
+            <param name="stdIn">Input to write to the associated process after starting</param>
+            <param name="arguments">Command line parameters as formatted string</param>
+            <param name="args">Zero or more strings to format</param>
+        </member>
+        <member name="P:CoApp.Toolkit.Utility.ProcessUtility.ExitCode">
+            <summary>
+            This process' exit code (or zero)
+            </summary>
+            <remarks>If it has not exited yet or doesn't exist, this will return 0.</remarks>
+        </member>
+        <member name="P:CoApp.Toolkit.Utility.ProcessUtility.Failed">
+            <summary>
+            True, if the exit code was non-zero. False otherwise.
+            </summary>
+        </member>
+        <member name="P:CoApp.Toolkit.Utility.ProcessUtility.StandardOut">
+            <summary>
+            Returns whatever this process just printed to standard output
+            </summary>
+        </member>
+        <member name="P:CoApp.Toolkit.Utility.ProcessUtility.StandardError">
+            <summary>
+            Returns everything this process printed to standard error
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.ReparsePoint">
+            <summary>
+                A low-level interface to mucking with reparse points on NTFS see: http://msdn.microsoft.com/en-us/library/cc232007(v=prot.10).aspx
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="F:ClrPlus.Platform.ReparsePoint.NonInterpretedPathPrefix">
+            <summary>
+                This prefix indicates to NTFS that the path is to be treated as a non-interpreted path in the virtual file system.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.ReparsePoint.UncPrefixRx">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.ReparsePoint.DrivePrefixRx">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.ReparsePoint.VolumePrefixRx">
+            <summary>
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.ReparsePoint._reparseDataData">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.ReparsePoint.#ctor(System.IntPtr)">
+            <summary>
+                Prevents a default instance of the <see cref="T:ClrPlus.Platform.ReparsePoint"/> class from being created. Populates the data from the buffer pointed to by the pointer.
+            </summary>
+            <param name="buffer"> The buffer. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.ReparsePoint.GetReparsePointHandle(System.String,ClrPlus.Windows.Api.Flags.NativeFileAccess)">
+            <summary>
+                Gets the file handle to the reparse point.
+            </summary>
+            <param name="reparsePoint"> The reparse point. </param>
+            <param name="accessMode"> The access mode. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.ReparsePoint.IsReparsePoint(System.String)">
+            <summary>
+                Determines whether a given path is a reparse point
+            </summary>
+            <param name="path"> The path. </param>
+            <returns>
+                <c>true</c> if [is reparse point] [the specified path]; otherwise, <c>false</c> .
+            </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.ReparsePoint.GetActualPath(System.String)">
+            <summary>
+                Gets the actual path of a reparse point
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.ReparsePoint.Open(System.String)">
+            <summary>
+                Opens the specified path as a reparse point. throws if it's not a reparse point.
+            </summary>
+            <param name="path"> The path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.ReparsePoint.CreateJunction(System.String,System.String)">
+            <summary>
+                Creates the junction.
+            </summary>
+            <param name="junctionPath"> The junction path. </param>
+            <param name="targetDirectory"> The target directory. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.ReparsePoint.CreateSymlink(System.String,System.String)">
+            <summary>
+                Creates the symlink.
+            </summary>
+            <param name="symlinkPath"> The symlink path. </param>
+            <param name="linkTarget"> The link target. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.ReparsePoint.ChangeReparsePointTarget(System.String,System.String)">
+            <summary>
+                Changes the reparse point target.
+            </summary>
+            <param name="reparsePointPath"> The reparse point path. </param>
+            <param name="newReparsePointTarget"> The new reparse point target. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.ReparsePoint.IsSymlinkOrJunction">
+            <summary>
+                Gets a value indicating whether this instance is symlink or junction.
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.ReparsePoint.IsRelativeSymlink">
+            <summary>
+                Gets a value indicating whether this instance is relative symlink.
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.ReparsePoint.IsMountPoint">
+            <summary>
+                Gets a value indicating whether this instance is mount point.
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.ReparsePoint.PrintName">
+            <summary>
+                Gets the "print name" of the reparse point
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.ReparsePoint.SubstituteName">
+            <summary>
+                Gets the "substitute name" of the reparse point.
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="T:ClrPlus.Platform.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ActionTypeComHandler">
+            <summary>
+              Looks up a localized string similar to Call a COM object.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ActionTypeExecute">
+            <summary>
+              Looks up a localized string similar to Start a program.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ActionTypeSendEmail">
+            <summary>
+              Looks up a localized string similar to Send an e-mail.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ActionTypeShowMessage">
+            <summary>
+              Looks up a localized string similar to Display a message.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ComHandlerAction">
+            <summary>
+              Looks up a localized string similar to {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.DOWAllDays">
+            <summary>
+              Looks up a localized string similar to every day.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.EmailAction">
+            <summary>
+              Looks up a localized string similar to {1} {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.EndSentence">
+            <summary>
+              Looks up a localized string similar to ..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_AccessDenied_Path">
+            <summary>
+              Looks up a localized string similar to Access to the path &apos;{0}&apos; was denied..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_AlreadyExists">
+            <summary>
+              Looks up a localized string similar to Cannot create &apos;{0}&apos; because a file or directory with the same name already exists..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_DirectoryNotFound">
+            <summary>
+              Looks up a localized string similar to Could not find a part of the path &apos;{0}&apos;..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_DriveNotFound">
+            <summary>
+              Looks up a localized string similar to Could not find the drive &apos;{0}&apos;. The drive might not be ready or might not be mapped..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_FileAlreadyExists">
+            <summary>
+              Looks up a localized string similar to The file &apos;{0}&apos; already exists..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_InvalidFileChars">
+            <summary>
+              Looks up a localized string similar to The specified stream name contains invalid characters..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_InvalidMode">
+            <summary>
+              Looks up a localized string similar to The specified mode &apos;{0}&apos; is not supported..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_NonFile">
+            <summary>
+              Looks up a localized string similar to The specified file name &apos;{0}&apos; is not a disk-based file..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_SharingViolation">
+            <summary>
+              Looks up a localized string similar to The process cannot access the file &apos;{0}&apos; because it is being used by another process..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_StreamExists">
+            <summary>
+              Looks up a localized string similar to The specified alternate data stream &apos;{0}&apos; already exists on file &apos;{1}&apos;..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_StreamNotFound">
+            <summary>
+              Looks up a localized string similar to The specified alternate data stream &apos;{0}&apos; does not exist on file &apos;{1}&apos;..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Error_UnknownError">
+            <summary>
+              Looks up a localized string similar to Unknown error: {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ExecAction">
+            <summary>
+              Looks up a localized string similar to {0} {1}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.HyphenSeparator">
+            <summary>
+              Looks up a localized string similar to  -.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.Invalid_WildcardPath">
+            <summary>
+              Looks up a localized string similar to The wildcard path {0} is invalid..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ListSeparator">
+            <summary>
+              Looks up a localized string similar to , .
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.MOYAllMonths">
+            <summary>
+              Looks up a localized string similar to every month.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.MultipleActions">
+            <summary>
+              Looks up a localized string similar to Multiple actions defined.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.MultipleTriggers">
+            <summary>
+              Looks up a localized string similar to Multiple triggers defined.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.ShowMessageAction">
+            <summary>
+              Looks up a localized string similar to {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TaskDefaultPrincipal">
+            <summary>
+              Looks up a localized string similar to Author.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TaskStateDisabled">
+            <summary>
+              Looks up a localized string similar to Disabled.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TaskStateQueued">
+            <summary>
+              Looks up a localized string similar to Queued.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TaskStateReady">
+            <summary>
+              Looks up a localized string similar to Ready.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TaskStateRunning">
+            <summary>
+              Looks up a localized string similar to Running.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TaskStateUnknown">
+            <summary>
+              Looks up a localized string similar to Unknown.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerAnyUser">
+            <summary>
+              Looks up a localized string similar to any user.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerBoot1">
+            <summary>
+              Looks up a localized string similar to At system startup.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerDaily1">
+            <summary>
+              Looks up a localized string similar to At {0:t} every day.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerDaily2">
+            <summary>
+              Looks up a localized string similar to At {0:t} every {1} days.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerDuration0">
+            <summary>
+              Looks up a localized string similar to  indefinitely.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerDurationNot0">
+            <summary>
+              Looks up a localized string similar to  for a duration of {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerEndBoundary">
+            <summary>
+              Looks up a localized string similar to  Trigger expires at {0:G}..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerEvent1">
+            <summary>
+              Looks up a localized string similar to Custom event filter.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerEventBasic1">
+            <summary>
+              Looks up a localized string similar to On event - Log: {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerEventBasic2">
+            <summary>
+              Looks up a localized string similar to , Source: {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerEventBasic3">
+            <summary>
+              Looks up a localized string similar to , EventID: {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerIdle1">
+            <summary>
+              Looks up a localized string similar to When computer is idle.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerLogon1">
+            <summary>
+              Looks up a localized string similar to At log on of {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerMonthly1">
+            <summary>
+              Looks up a localized string similar to At {0:t} on day {1} of {2}, starting {0:d}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerMonthlyDOW1">
+            <summary>
+              Looks up a localized string similar to At {0:t} on the {1} {2:f} each {3}, starting {0:d}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerRegistration1">
+            <summary>
+              Looks up a localized string similar to When the task is created or modified.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerRepetition">
+            <summary>
+              Looks up a localized string similar to  After triggered, repeat every {0}{1}..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerSessionConsoleConnect">
+            <summary>
+              Looks up a localized string similar to On local connection to {0}..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerSessionConsoleDisconnect">
+            <summary>
+              Looks up a localized string similar to On local disconnect from {0}..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerSessionRemoteConnect">
+            <summary>
+              Looks up a localized string similar to On remote connection to {0}..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerSessionRemoteDisconnect">
+            <summary>
+              Looks up a localized string similar to On remote disconnect from {0}..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerSessionSessionLock">
+            <summary>
+              Looks up a localized string similar to On workstation lock of {0}..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerSessionSessionUnlock">
+            <summary>
+              Looks up a localized string similar to On workstation unlock of {0}..
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerSessionUserSession">
+            <summary>
+              Looks up a localized string similar to user session of {0}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTime1">
+            <summary>
+              Looks up a localized string similar to At {0:t} on {0:d}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeBoot">
+            <summary>
+              Looks up a localized string similar to At startup.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeDaily">
+            <summary>
+              Looks up a localized string similar to Daily.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeEvent">
+            <summary>
+              Looks up a localized string similar to On an event.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeIdle">
+            <summary>
+              Looks up a localized string similar to On idle.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeLogon">
+            <summary>
+              Looks up a localized string similar to At log on.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeMonthly">
+            <summary>
+              Looks up a localized string similar to Monthly.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeMonthlyDOW">
+            <summary>
+              Looks up a localized string similar to Monthly.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeRegistration">
+            <summary>
+              Looks up a localized string similar to At task creation/modification.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeSessionStateChange">
+            <summary>
+              Looks up a localized string similar to On state change.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeTime">
+            <summary>
+              Looks up a localized string similar to One time.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerTypeWeekly">
+            <summary>
+              Looks up a localized string similar to Weekly.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerWeekly1Week">
+            <summary>
+              Looks up a localized string similar to At {0:t} every {1} of every week, starting {0:d}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.TriggerWeeklyMultWeeks">
+            <summary>
+              Looks up a localized string similar to At {0:t} every {1} of every {2} weeks, starting {0:d}.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.WWAllWeeks">
+            <summary>
+              Looks up a localized string similar to every.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.WWFifthWeek">
+            <summary>
+              Looks up a localized string similar to fifth.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.WWFirstWeek">
+            <summary>
+              Looks up a localized string similar to first.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.WWFourthWeek">
+            <summary>
+              Looks up a localized string similar to fourth.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.WWLastWeek">
+            <summary>
+              Looks up a localized string similar to last.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.WWSecondWeek">
+            <summary>
+              Looks up a localized string similar to second.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Properties.Resources.WWThirdWeek">
+            <summary>
+              Looks up a localized string similar to third.
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.SafeNativeMethods">
+            <summary>
+                Safe native methods. (part of alternate streams stuff)
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ConsoleProperties.#ctor(ClrPlus.Platform.Shell.ConsoleProperties)">
+            <summary>
+                Makes a copy of another ConsoleProperty
+            </summary>
+            <remarks>
+                Note that the 'owner' field is not copied here.
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ConsoleProperties.#ctor(ClrPlus.Platform.Shell.ShellLink)">
+            <summary>
+                This should be only called by a ShellLink constructor
+            </summary>
+            <param name="owner"> </param>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.FillAttribute">
+            <summary>
+                Gets or sets the Fill attribute for the console.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.PopupFillAttribute">
+            <summary>
+                Gets or sets Fill attribute for console popups.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.ScreenBufferSize">
+            <summary>
+                gets or sets the console's screen buffer size. X is width, Y is height.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.WindowSize">
+            <summary>
+                gets or sets the console's window size. X is width, Y is height.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.WindowOrigin">
+            <summary>
+                gets or sets the console's window origin. X is left, Y is top.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.Font">
+            <summary>
+                Gets or sets the font.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.InputBufferSize">
+            <summary>
+                Gets or sets the console's input buffer size.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.FontSize">
+            <summary>
+                gets or sets the console's font size.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.FontFamily">
+            <summary>
+                Gets or sets the console's font family.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.FontWeight">
+            <summary>
+                Gets or sets the console's font weight.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.FaceName">
+            <summary>
+                Gets or sets the console's font face name.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.CursorSize">
+            <summary>
+                Gets or sets the console's cursor size.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.FullScreen">
+            <summary>
+                Gets or sets the console's full screen flag.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.QuickEdit">
+            <summary>
+                Gets or sets the console's quick edit flag.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.InsertMode">
+            <summary>
+                Gets or sets the console's insert mode flag. True for insert mode, false for overrite
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.AutoPosition">
+            <summary>
+                Gets or sets the console's auto position flag. True to auto position the window.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.HistoryBufferSize">
+            <summary>
+                Gets or sets the size of each console history buffer.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.NumberOfHistoryBuffers">
+            <summary>
+                Gets or sets the number of history buffers for the console.
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:ClrPlus.Platform.Shell.ConsoleProperties.HistoryNoDup" -->
+        <member name="P:ClrPlus.Platform.Shell.ConsoleProperties.ColorTable">
+            <summary>
+                An array of color reference values for the console. Colors are specified as an index into this array.
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.Shell.Coordinate">
+            <summary>
+                A coordinate. Values are limited to UInt16.MinValue and UInt16.MaxValue
+            </summary>
+            <remarks>
+                This structure maps to the native COORD data strcture. The values used here are ints so this class is CLS compliant.
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Coordinate.#ctor(System.Int32,System.Int32)">
+            <summary>
+                Create a coordinate with specified X and Y values.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Coordinate.#ctor(ClrPlus.Platform.Shell.Coordinate)">
+            <summary>
+                Make a copy of another Coordiante
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.Coordinate.X">
+            <summary>
+                Gets and sets the coordinates X value
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.Coordinate.Y">
+            <summary>
+                Gets and sets the coordinates Y value
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.Shell.IconLocation">
+            <summary>
+                Holds a reference to an icon in a file. An icon locatoin object is 'empty' if its path is zero length.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.IconLocation.#ctor">
+            <summary>
+                Creates an empty icon location
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.IconLocation.#ctor(System.String,System.Int32)">
+            <summary>
+                Create a icon locatoin object
+            </summary>
+            <param name="path"> The path to the file containing the icon </param>
+            <param name="index"> The index of the icon. </param>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.IconLocation.Path">
+            <summary>
+                Gets the path to the file contaning the icon.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.IconLocation.Index">
+            <summary>
+                Gets the index of the icon in the file.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.IconLocation.IsEmpty">
+            <summary>
+                True of the icon location is empty.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.EXP_DARWIN_LINK.AnEmptyOne">
+            <summary>
+                Gets an empty structure with a valid data block header and sensible defaults.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.EXP_DARWIN_LINK.SetDataBlockHeader">
+            <summary>
+                Sets the datablock header values for this sturcture.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.EXP_SZ_ICON.AnEmptyOne">
+            <summary>
+                Gets an empty structure with a valid data block header and sensible defaults.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.EXP_SZ_ICON.SetDataBlockHeader">
+            <summary>
+                Sets the datablock header values for this sturcture.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.EXP_SZ_LINK.AnEmptyOne">
+            <summary>
+                Gets an empty structure with a valid data block header and sensible defaults.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.EXP_SZ_LINK.SetDataBlockHeader">
+            <summary>
+                Sets the datablock header values for this sturcture.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.NT_CONSOLE_PROPS.AnEmptyOne">
+            <summary>
+                Gets an empty structure with a valid data block header and sensible defaults.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.NT_CONSOLE_PROPS.SetDataBlockHeader">
+            <summary>
+                Sets the datablock header values for this sturcture.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.NT_FE_CONSOLE_PROPS.AnEmptyOne">
+            <summary>
+                Gets an empty structure with a valid data block header and sensible defaults.
+            </summary>
+            <returns> </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.Internal.NT_FE_CONSOLE_PROPS.SetDataBlockHeader">
+            <summary>
+                Sets the datablock header values for this sturcture.
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.Shell.Internal.ShellLinkCoClass">
+            <summary>
+                This is the CoClass that impliments the shell link interfaces.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_NO_UI">
+            <summary>
+                Do not display a dialog box if the link cannot be resolved.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_ANY_MATCH">
+            <summary>
+                Not used - ignored
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_UPDATE">
+            <summary>
+                If the link object has changed, update its path and list of identifiers. If SLR_UPDATE is set, you do not need to call IPersistFile::IsDirty to determine whether or not the link object has changed.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_NOUPDATE">
+            <summary>
+                Do not update the link information.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_NOSEARCH">
+            <summary>
+                Do not execute the search heuristics.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_NOTRACK">
+            <summary>
+                Do not use distributed link tracking.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_NOLINKINFO">
+            <summary>
+                Disable distributed link tracking. By default, distributed link tracking tracks removable media across multiple devices based on the volume name. It also uses the UNC path to track remote file systems whose drive letter has changed. Setting NoLinkInfo disables both types of tracking
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_INVOKE_MSI">
+            <summary>
+                Call the Windows Installer
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_NO_UI_WITH_MSG_PUMP">
+            <summary>
+                Windows XP and later.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_OFFER_DELETE_WITHOUT_FILE">
+            <summary>
+                Windows 7 and later. Offer the option to delete the shortcut when this method is unable to resolve it, even if the shortcut is not a shortcut to a file.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_KNOWNFOLDER">
+            <summary>
+                Windows 7 and later. Report as dirty if the target is a known folder and the known folder was redirected. This only works if the original target path was a file system path or ID list and not an aliased known folder ID list.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_MACHINE_IN_LOCAL_TARGET">
+            <summary>
+                Windows 7 and later. Resolve the computer name in UNC targets that point to a local computer. This value is used with SLDF_KEEP_LOCAL_IDLIST_FOR_UNC_TARGET.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.Internal.SLR_FLAGS.SLR_UPDATE_MACHINE_AND_SID">
+            <summary>
+                Windows 7 and later. Update the computer GUID and user SID if necessary.
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.Shell.ResolveFlags">
+            <summary>
+                These values map directly to the native SLR_* values for the IShellLink::Resolve() method
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.NoUi">
+            <summary>
+                Do not display a dialog box if the link cannot be resolved.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.AnyMatch">
+            <summary>
+                Not used - ignored
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.Update">
+            <summary>
+                If the link object has changed, update its path and list of identifiers. If SLR_UPDATE is set, you do not need to call IPersistFile::IsDirty to determine whether or not the link object has changed.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.NoUpdate">
+            <summary>
+                Do not update the link information.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.NoSearch">
+            <summary>
+                Do not execute the search heuristics.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.NoTrack">
+            <summary>
+                Do not use distributed link tracking.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.NoLinkInfo">
+            <summary>
+                Disable distributed link tracking. By default, distributed link tracking tracks removable media across multiple devices based on the volume name. It also uses the UNC path to track remote file systems whose drive letter has changed. Setting NoLinkInfo disables both types of tracking
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.InvokeMSI">
+            <summary>
+                Call the Windows Installer
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.NoUIWithMessagePump">
+            <summary>
+                Windows XP and later.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.OfferDeleteWithoutFile">
+            <summary>
+                Windows 7 and later. Offer the option to delete the shortcut when this method is unable to resolve it, even if the shortcut is not a shortcut to a file.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.KnownFolder">
+            <summary>
+                Windows 7 and later. Report as dirty if the target is a known folder and the known folder was redirected. This only works if the original target path was a file system path or ID list and not an aliased known folder ID list.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.MachineInLocaltarget">
+            <summary>
+                Windows 7 and later. Resolve the computer name in UNC targets that point to a local computer. This value is used with SLDF_KEEP_LOCAL_IDLIST_FOR_UNC_TARGET.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ResolveFlags.UpdateMachineAndSid">
+            <summary>
+                Windows 7 and later. Update the computer GUID and user SID if necessary.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.#ctor">
+            <summary>
+                Create an empty shell link object
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.#ctor(System.String)">
+            <summary>
+                Load a shell link from a file.
+            </summary>
+            <param name="linkFilePath"> the path to the file </param>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.Save(System.String)">
+            <summary>
+                Save a shortcut to a file. The shell requires a '.lnk' file extension.
+            </summary>
+            <remarks>
+                If the file exists it is silently overwritten.
+            </remarks>
+            <param name="lnkPath"> The path to the saved file. </param>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.Load(System.String)">
+            <summary>
+                Load a shortcut from a file.
+            </summary>
+            <param name="linkPath"> A path to the file. </param>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.Resolve(ClrPlus.Platform.Shell.ResolveFlags)">
+            <summary>
+                Attempts to find the target of a Shell link, even if it has been moved or renamed.
+            </summary>
+            <param name="flags"> Flags that control the resolution process </param>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.Resolve(System.IntPtr,ClrPlus.Platform.Shell.ResolveFlags)">
+            <summary>
+                Attempts to find the target of a Shell link, even if it has been moved or renamed.
+            </summary>
+            <param name="hwnd"> A handle to the window that the Shell will use as the parent for a dialog box. The Shell displays the dialog box if it needs to prompt the user for more information while resolving a Shell link. </param>
+            <param name="flags"> Flags that control the resolution process </param>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.Resolve(ClrPlus.Platform.Shell.ResolveFlags,System.Int32)">
+            <summary>
+                Attempts to find the target of a Shell link, even if it has been moved or renamed.
+            </summary>
+            <param name="flags"> Flags that control the resolution process </param>
+            <param name="noUxTimeoutMs"> The timeout, in ms, to wait for resolution when there is no UX </param>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.RemoveData(System.UInt32)">
+            <summary>
+                Removes a data block
+            </summary>
+            <param name="signature"> The signature of the data block </param>
+            <exception cref="T:System.ArgumentException">Thrown if the signature is not supported.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.ReadConsoleProperties">
+            <summary>
+                Read the console properties from the shell link
+            </summary>
+            <returns> True if they exists and were read. False if they did not exist. </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.Shell.ShellLink.WriteConsoleProperties">
+            <summary>
+                Write the current NT_CONSOLE_PROPS properties to the link.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.Path">
+            <summary>
+                Get or sets the target of the shell link. The getter for this property uses the SLGP_RAWPATH flags.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.ShortPath">
+            <summary>
+                Gets the the path to the shortcut (.lnk) file using the SLGP_SHORTPATH flag
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.UncPriorityPath">
+            <summary>
+                Gets the the path to the shortcut (.lnk) file using the SLGP_UNCPRIORITY flag
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.Arguments">
+            <summary>
+                The command line arguments to the shortcut.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.WorkingDirectory">
+            <summary>
+                Gets or sets the shortcut's working directory.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.Description">
+            <summary>
+                Gets or sets the shortcut's description
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.IconLocation">
+            <summary>
+                Gets and sets the location of the shortcut's ICON. This may return an empty IconLocatoin object, one where the path property is empty.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.ShowCommand">
+            <summary>
+                Gets and sets the show command for shell link's object.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.Flags">
+            <summary>
+                Gets or sets the Shell Link Data Flags for a shell link
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.HasConsoleProperties">
+            <summary>
+                True if the Shell Link has an NT_CONSOLE_PROPS data block.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.ConsoleProperties">
+            <summary>
+                Gets the console properties for a shell link. If HasConsoleProperties is false, then this property returns a ConsoleProperties that contains sensible default values.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.HasCodePage">
+            <summary>
+                Is true if the shell link as an NT_FE_CONSOLE_PROPS data block.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.CodePage">
+            <summary>
+                Gets or sets the code page for the console. if there is no code page then the value for this property is zero. Setting this propety to zero removes the assocated NT_FE_CONSOLE_PROPS data block from the shell link. When in doubt, use the Windows 1252 code page.
+            </summary>
+            <exception cref="!:OverflowExeption">Thrown if the set value cannot be converted to a UInt32 wihtout overflow.</exception>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.HasExpSzLink">
+            <summary>
+                Is true if the shell link has an EXP_SZ_LINK datablock with the EXP_SZ_LINK_SIG signature.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.ExpSzLink">
+            <summary>
+                Get and sets the EXP_SZ_LINK property for a shell link. If there is no link then the property value is an empty string. Setting this to null, an empty string, or a string that is all white space removes the EXP_SZ_LINK data block with the EXP_SZ_LINK_SIG signature from the assocated shell link.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.HasExpSzIcon">
+            <summary>
+                Is true if the shell link has an EXP_SZ_LINK datablock with the EXP_SZ_ICON_SIG signature.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.ExpSzIcon">
+            <summary>
+                Get and sets the EXP_SZ_ICON property for a shell link. If there is no link then the property value is an empty string. Setting this to null, an empty string, or a string that is all white space removes the EXP_SZ_LINK data block with the EXP_SZ_ICON_SIG signature from the assocated shell link.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.HasDarwinLink">
+            <summary>
+                True if the shell link ha a EXP_DARWIN_LINK data block.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.DarwinLink">
+            <summary>
+                Get and sets the EXP_DARWIN_LINK property for a shell link. If there is no link then the property value is an empty string. Setting this to null, an empty string, or a string that is all white space removes the EXP_DARWIN_LINK data block from the assocated shell link.
+            </summary>
+        </member>
+        <member name="P:ClrPlus.Platform.Shell.ShellLink.ExpSpecialFolder">
+            <summary>
+                Get and sets the Special Folder property for a shell link.
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.Shell.ShellLinkFlags">
+            <summary>
+                These flag values mapp to the native SHELL_LINK_DATA_FLAGS Enumeration. See MSDN
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.None">
+            <summary>
+                Default value used when no other flag is explicitly set.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.Default">
+            <summary>
+                Default value used when no other flag is explicitly set.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasIdList">
+            <summary>
+                The Shell link was saved with an ID list
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasLinkInfo">
+            <summary>
+                The Shell link was saved with link information to enable distributed tracking. This information is used by .lnk files to locate the target if the targets's path has changed. It includes information such as volume label and serial number, although the specific stored information can change from release to release.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasName">
+            <summary>
+                The link has a name.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasRelativePath">
+            <summary>
+                The link has a relative path.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasWorkingDirectory">
+            <summary>
+                The link has a working directory.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasArguments">
+            <summary>
+                The link has arguments.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasIconLocation">
+            <summary>
+                The link has an icon location.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.Unicode">
+            <summary>
+                Stored strings are Unicode.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.ForceNoLinkInfo">
+            <summary>
+                Prevents the storage of link tracking information. If this flag is set, it is less likely, though not impossible, that a target can be found by the link if that target is moved.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasExpSz">
+            <summary>
+                The link contains expandable environment strings such as %windir%.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.RunInSeparate">
+            <summary>
+                Causes a 16-bit target application to run in a separate Virtual DOS Machine (VDM)/Windows on Windows (WOW).
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasLogo3Id">
+            <summary>
+                Not supported. Note that as of Windows Vista, this value is no longer defined.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasDarwinId">
+            <summary>
+                The link is a special Windows Installer link.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.RunAsUser">
+            <summary>
+                Causes the target application to run as a different user.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.HasExpIconSz">
+            <summary>
+                The icon path in the link contains an expandable environment string such as such as %windir%.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.NoPidlAlias">
+            <summary>
+                Prevents the use of ID list alias mapping when parsing the ID list from the path.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.ForceUncName">
+            <summary>
+                Forces the use of the UNC name (a full network resource name), rather than the local name
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.RunWithShimLayer">
+            <summary>
+                Causes the target of this link to launch with a shim layer active. A shim is an intermediate DLL that facilitates compatibility between otherwise incompatible software services. Shims are typically used to provide version compatibility.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.ForceNoLinkTrack">
+            <summary>
+                Windows Vista and later. Disable object ID distributed tracking information.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.EnableTargetMetadata">
+            <summary>
+                Windows Vista and later. Enable the caching of target metadata into the link file.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.DisableLinkpathTracking">
+            <summary>
+                Windows 7 and later. Disable shell link tracking.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.DisableKnownFolderRelativeTracking">
+            <summary>
+                Windows Vista and later. Disable known folder tracking information.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.NoKfAlias">
+            <summary>
+                Windows 7 and later. Disable known folder alias mapping when loading the IDList during deserialization.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.AllowLinkToLInk">
+            <summary>
+                Windows 7 and later. Allow link to point to another shell link as long as this does not create cycles.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.UnaliasOnSave">
+            <summary>
+                Windows 7 and later. Remove alias when saving the IDList
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.PreferEnvironmentPath">
+            <summary>
+                Windows 7 and later. Recalculate the IDList from the path with the environmental variables at load time, rather than persisting the IDList.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.KeepLocalIDListForUncTarget">
+            <summary>
+                Windows 7 and later. If the target is a UNC location on a local machine, keep the local IDList target in addition to the remote target.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.W7Valid">
+            <summary>
+                Valid values for W7
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.VistaValid">
+            <summary>
+                Valid Values For W8
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShellLinkFlags.Reserved">
+            <summary>
+                Reserved, do not use
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.Shell.ShowWindowCommand">
+            <summary>
+                Window 'show' commands - seee the Win32 ShowWindow() API for more info.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.ForceMinimize">
+            <summary>
+                SW_FORCEMINIMIZE - minimizes a window, even if the thread that owns the window is not responding. This flag should only be used when minimizing windows from a different thread.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.Hide">
+            <summary>
+                SW_HIDE - Hides the window and activates another window.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.Maximize">
+            <summary>
+                SW_MAXIMIZE - Maximizes the specified window.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.Minimize">
+            <summary>
+                SW_MINIMIZE - Minimizes the specified window and activates the next top-level window in the Z order.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.Restore">
+            <summary>
+                SW_RESTORE - Activates and displays the window. If the window is minimized or maximized, the system restores it to its original size and position. An application should specify this flag when restoring a minimized window.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.Show">
+            <summary>
+                SW_SHOW - Activates the window and displays it in its current size and position.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.ShowDeafult">
+            <summary>
+                SW_SHOWDEFAULT - Sets the show state based on the SW_ value specified in the STARTUPINFO structure passed to the CreateProcess function by the program that started the application.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.ShowMaximized">
+            <summary>
+                SW_SHOWMAXIMIZED - Activates the window and displays it as a maximized window.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.ShowMinimized">
+            <summary>
+                SW_SHOWMINIMIZED - Activates the window and displays it as a minimized window.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.ShowMinNoActive">
+            <summary>
+                SW_SHOWMINNOACTIVE - Displays the window as a minimized window. This value is similar to SW_SHOWMINIMIZED, except the window is not activated.
+            </summary>
+        </member>
+        <member name="F:ClrPlus.Platform.Shell.ShowWindowCommand.ShowNormal">
+            <summary>
+                SW_SHOWNORMAL - Activates and displays a window. If the window is minimized or maximized, the system restores it to its original size and position. An application should specify this flag when displaying the window for the first time.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.StreamName.Dispose">
+            <summary>
+                Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.StreamName.EnsureCapacity(System.Int32)">
+            <summary>
+                Ensures that there is sufficient memory allocated.
+            </summary>
+            <param name="capacity"> The required capacity of the block, in bytes. </param>
+            <exception cref="T:System.OutOfMemoryException">There is insufficient memory to satisfy the request.</exception>
+        </member>
+        <member name="M:ClrPlus.Platform.StreamName.ReadString(System.Int32)">
+            <summary>
+                Reads the Unicode string from the memory block.
+            </summary>
+            <param name="length"> The length of the string to read, in characters. </param>
+            <returns> The string read from the memory block. </returns>
+        </member>
+        <member name="M:ClrPlus.Platform.StreamName.ReadStreamName(System.Int32)">
+            <summary>
+                Reads the string, and extracts the stream name.
+            </summary>
+            <param name="length"> The length of the string to read, in characters. </param>
+            <returns> The stream name. </returns>
+        </member>
+        <member name="P:ClrPlus.Platform.StreamName.MemoryBlock">
+            <summary>
+                Returns the handle to the block of memory.
+            </summary>
+            <value>
+                The <see cref="T:ClrPlus.Windows.Api.Structures.SafeHGlobalHandle"/> representing the block of memory.
+            </value>
+        </member>
+        <member name="T:ClrPlus.Platform.Symlink">
+            <summary>
+                Wrapper class to abstract out which symlink implementation to use on a given platform
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="F:ClrPlus.Platform.Symlink._symlink">
+            <summary>
+                backing field for the ISymlink instance for handling symlinks. Vista+ gets a ModernSymlink instance.
+            </summary>
+        </member>
+        <member name="M:ClrPlus.Platform.Symlink.MakeFileLink(System.String,System.String)">
+            <summary>
+                Wrapper Method: Makes the file link.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <param name="actualFilePath"> The actual file path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Symlink.MakeDirectoryLink(System.String,System.String)">
+            <summary>
+                Wrapper Method: Makes the directory link.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <param name="actualFolderPath"> The actual folder path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Symlink.ChangeLinkTarget(System.String,System.String)">
+            <summary>
+                Wrapper Method: Changes the link target.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <param name="newActualPath"> The new actual path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Symlink.DeleteSymlink(System.String)">
+            <summary>
+                Wrapper Method: Deletes the symlink.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Symlink.IsSymlink(System.String)">
+            <summary>
+                Wrapper Method: Determines whether the specified link path is symlink.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <returns>
+                <c>true</c> if the specified link path is symlink; otherwise, <c>false</c> .
+            </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Symlink.IsValidLink(System.String)">
+            <summary>
+                Wrapper Method: Determines whether the specified link path is symlink and that it points to an actual file or directory
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <returns>
+                <c>true</c> if the specified link path is symlink and the target exists; otherwise, <c>false</c> .
+            </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Symlink.IsInvalidLink(System.String)">
+            <summary>
+                Wrapper Method: Determines whether the specified link path is a symlink and if it points to an invalid location.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <returns>
+                <c>true</c> if the specified link path is symlink and the target exists; otherwise, <c>false</c> .
+            </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="M:ClrPlus.Platform.Symlink.GetActualPath(System.String)">
+            <summary>
+                Wrapper Method: Gets the actual path.
+            </summary>
+            <param name="linkPath"> The link path. </param>
+            <returns> </returns>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="T:ClrPlus.Platform.SystemHotkey">
+            <summary>
+                Handles a System Hotkey
+            </summary>
+        </member>
+        <member name="T:ClrPlus.Platform.WindowsVersionInfo">
+            <summary>
+                Wrapper class for accessing information about the current Windows environment
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.WindowsVersionInfo.IsVistaOrBeyond">
+            <summary>
+                Gets a value indicating whether this instance is vista or beyond.
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.WindowsVersionInfo.IsCurrentProcess32Bit">
+            <summary>
+                Gets a value indicating whether this process is running as a 32 bit process.
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.WindowsVersionInfo.IsCurrentProcess64Bit">
+            <summary>
+                Gets a value indicating whether this process is running as a 64 bit process.
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.WindowsVersionInfo.IsOS32Bit">
+            <summary>
+                Gets a value indicating whether the current OS is 32 bit
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+        <member name="P:ClrPlus.Platform.WindowsVersionInfo.IsOS64Bit">
+            <summary>
+                Gets a value indicating whether the current OS is 64 bit
+            </summary>
+            <remarks>
+            </remarks>
+        </member>
+    </members>
+</doc>

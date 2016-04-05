@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b55aaa34-92e6-411a-9d5e-5d05881a3bc6" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://aafinans.com/Servisler/FinanceApi.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FinanceApi1.wsdl" MetadataType="Wsdl" ID="140f2cb6-003b-46b9-a436-07ae271fdcf4" SourceId="1" SourceUrl="https://aafinans.com/Servisler/FinanceApi.svc?wsdl" />
+    <MetadataFile FileName="FinanceApi3.xsd" MetadataType="Schema" ID="94c0529c-bd2e-4843-9368-aaa9a1b53a1f" SourceId="1" SourceUrl="https://aafinans.com/Servisler/FinanceApi.svc?xsd=xsd0" />
+    <MetadataFile FileName="FinanceApi31.xsd" MetadataType="Schema" ID="e3cbd356-a55e-4630-8fb0-a02c353d711f" SourceId="1" SourceUrl="https://aafinans.com/Servisler/FinanceApi.svc?xsd=xsd1" />
+    <MetadataFile FileName="FinanceApi32.xsd" MetadataType="Schema" ID="86132d6c-031a-4780-aa3d-06b936118f78" SourceId="1" SourceUrl="https://aafinans.com/Servisler/FinanceApi.svc?xsd=xsd2" />
+    <MetadataFile FileName="FinanceApi33.xsd" MetadataType="Schema" ID="38901da1-a111-4b37-b187-edaa9307fd7a" SourceId="1" SourceUrl="https://aafinans.com/Servisler/FinanceApi.svc?xsd=xsd3" />
+    <MetadataFile FileName="FinanceApi1.disco" MetadataType="Disco" ID="9d7a712f-8468-49ed-8c47-6b252cf7fcab" SourceId="1" SourceUrl="https://aafinans.com/Servisler/FinanceApi.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

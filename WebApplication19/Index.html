@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script>
+
+        function VeriIndir()
+        {
+            var dosya = document.getElementById("veri").files;
+            if (dosya.length ==0) {
+                window.open("download.ashx?kaldigimNokta=0" );
+            }
+            else
+            {
+                window.open("download.ashx?kaldigimNokta=" + dosya[0].size);
+            }
+        
+
+        }
+
+    </script>
+</head>
+<body>
+    <input type="file" id="veri"  />
+    <button onclick="VeriIndir()" >Indir</button>
+</body>
+</html>

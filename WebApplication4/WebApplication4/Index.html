@@ -1,0 +1,30 @@
+﻿<html ng-app>
+<head>
+    <title>Hello World in AngularJS</title>
+<script>
+     
+    var http = require("http");
+ 
+    http.createServer(function (request, response) {
+       
+        request.on("end", function () {
+           
+            response.writeHead(200, {
+                'Content-Type': 'text/plain'
+            });
+      
+            response.end('Hello HTTP!');
+        });
+ 
+    }).listen(8080);
+</script>
+
+</head>
+
+<body>
+
+    <input ng-model="name"> Hello {{ name }}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.25/angular.min.js"></script>
+</body>
+</html>

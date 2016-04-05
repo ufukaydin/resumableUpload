@@ -1,0 +1,293 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hukuk Modulü</title>
+
+    <link rel="stylesheet" type="text/css" href="assets/plugins/jquery.steps/demo/css/jquery.steps.css" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+
+    <link href="assets/css/NonResp.css" rel="stylesheet" />
+
+</head>
+<body>
+    <div class="navbar navbar-inverse" role="navigation">
+        <div class="container-fluid">
+            <div class="navbar-header">
+
+                <a class="navbar-brand2" margin-top="-20px">
+
+                    <img class="img-circle" style="  position: relative;
+       z-index:1002;" src="assets/AA_LOGO.png" height="50">
+                </a>
+                <a class="navbar-brand" href="anasayfa.htm">
+                    <span class="clearfix hidden-xs">HUKUK TAKİP SİSTEMİ</span>
+                    <span class="clearfix visible-xs">HKTS</span>
+                </a>
+
+
+            </div>
+
+            <div class="navbar-collapse collapse" aria-expanded="false" style="height: 50px;">
+                <ul class="nav navbar-nav">
+                    <li id="ess">
+                        <a href="#">
+                            <span class="glyphicon glyphicon-user"></span> Personel
+                        </a>
+                    </li>
+                    <li id="ess">
+                        <a href="#">
+                            <span class="glyphicon glyphicon-user"></span> İstatistikler
+                        </a>
+                    </li>
+                    <li id="ess">
+                        <a href="#">
+                            <span class="glyphicon glyphicon-user"></span> Çıkış
+                        </a>
+                    </li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+    </div>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper" style="  background-repeat: repeat-x;
+    background-image: linear-gradient(to bottom, #818ED7, #000000);">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a class="btn  btn-lg" href="#">
+                        Yeni Dava
+                    </a>
+                </li>
+                <li class="sidebar-brand">
+                    <a class="btn btn-lg" href="#">
+                        Kayıtlı Davalar
+                    </a>
+                </li>
+                <li  class="sidebar-brand">
+                    <a class="btn  btn-lg" href="#">
+                        Özlük Bilgileri
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="content-page">
+                <!-- Start content -->
+                <div class="content">
+                    <div class="container">
+
+                        <div class="row">
+                            <div class="col-sm-12">
+
+
+
+                                <form id="hukukForm" method="post" enctype="multipart/form-data"  action="#">
+                                    <div>
+                                        <h3>Mahkeme Bilgisi</h3>
+                                        <section>
+
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label " for="confirm2">Mahkeme</label>
+                                                <div class="col-lg-10">
+                                                    <input id="mahkeme" name="mahkeme" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label " for="confirm2">Esas No</label>
+                                                <div class="col-lg-10">
+                                                    <input id="esasNo" name="esasNo" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label " for="confirm2">Karar No</label>
+                                                <div class="col-lg-10">
+                                                    <input id="kararNo" name="kararNo" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label " for="confirm2">Vekili</label>
+                                                <div class="col-lg-10">
+                                                    <input id="vekili" name="vekili" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <h3>Dava Bilgisi</h3>
+                                        <section>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Dava Konusu</label>
+                                                <div class="col-lg-10">
+                                                    <input id="davaKonusu" name="davaKonusu" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Talep Miktarı</label>
+                                                <div class="col-lg-10">
+                                                    <input id="talepMiktari" name="talepMiktari" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Tanıklar</label>
+                                                <div class="col-lg-10">
+                                                    <input id="taniklar" name="taniklar" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Bilirkişi İncelemesi</label>
+                                                <div class="col-lg-10">
+                                                    <input id="bilirkisi" name="bilirkisi" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <h3>Aşama Bilgisi</h3>
+                                        <section>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Aşama Detayı</label>
+                                                <div class="col-lg-10">
+                                                    <input id="asamaDetayi" name="asamaDetayi" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <h3>İcra Bilgisi</h3>
+                                        <section>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Dairesi</label>
+                                                <div class="col-lg-10">
+                                                    <input id="icraDairesi" name="icraDairesi" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Dosya No</label>
+                                                <div class="col-lg-10">
+                                                    <input id="dosyaNo" name="dosyaNo" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Alacak Miktarı</label>
+                                                <div class="col-lg-10">
+                                                    <input id="alacakMiktari" name="alacakMiktari" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Teminat</label>
+                                                <div class="col-lg-10">
+                                                    <input id="teminat" name="teminat" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Teminat Var</label>
+                                                <div class="col-lg-10">
+                                                    <input id="teminatvar" name="teminatvar" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Tehir-i İcra</label>
+                                                <div class="col-lg-10">
+                                                    <input id="tehir" name="tehir" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Sonuç</label>
+                                                <div class="col-lg-10">
+                                                    <input id="icraSonuc" name="icraSonuc" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <h3>Yargıtay</h3>
+                                        <section>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Dairesi</label>
+                                                <div class="col-lg-10">
+                                                    <input id="yargitayDairesi" name="yargitayDairesi" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Esas No</label>
+                                                <div class="col-lg-10">
+                                                    <input id="esasNo" name="esasNo" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Karar No</label>
+                                                <div class="col-lg-10">
+                                                    <input id="kararNo" name="kararNo" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Aşaması</label>
+                                                <div class="col-lg-10">
+                                                    <input id="asamasi" name="asamasi" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Sonuç</label>
+                                                <div class="col-lg-10">
+                                                    <input id="yargitaySonuc" name="yargitaySonuc" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <h3>Mürafaa Talebi</h3>
+                                        <section>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Mürafaa</label>
+                                                <div class="col-lg-10">
+                                                    <input id="murafa" name="murafa" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Tarihi</label>
+                                                <div class="col-lg-10">
+                                                    <input id="murafaTarih" name="murafaTarih" type="text" class="required form-control">
+                                                </div>
+                                            </div>
+                                        </section>
+                                        <h3>Dosyalar</h3>
+                                        <section>
+                                            <div class="form-group clearfix">
+                                                <label class="col-lg-2 control-label" for="name2">Dosyalar</label>
+                                                <div class="col-lg-10">
+                                                    <input id="dosya" name="dosya" type="file" multiple class="required form-control">
+                                                </div>
+                                            </div>
+                                           
+                                        </section>
+                                    </div>
+                                </form>
+
+                            </div>
+                        </div>
+
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+
+
+
+
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/plugins/jquery.steps/build/jquery.steps.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="assets/plugins/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="assets/pages/jquery.wizard-init.js" type="text/javascript"></script>
+    <script>
+        $.FormWizard.init("hukukForm");
+        $('.collapse').collapse();
+    </script>
+
+</body>
+</html>
